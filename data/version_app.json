@@ -1,0 +1,15 @@
+[
+{
+  "versionCode": 1,
+  "versionName": "1.1",
+  "fecha": "2026-04-08",
+  "url": "https://...",
+  "mensaje": "Hay una nueva versión disponible.",
+  "obligatoria": false,
+  "cambios": [
+    "Mejoras en búsqueda",
+    "Corrección de errores",
+    "Mayor velocidad"
+  ]
+}
+]
