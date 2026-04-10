@@ -1,8 +1,8 @@
 [
 {
-  "versionCode": 2,
+  "versionCode": 1,
   "versionName": "1.0",
-  "fecha": "2026-04-10",
+  "fecha": "2026-04-09",
   "url": "https://github.com/RemiAlan/BuscadorPreciosGI/releases/download/v1.1/BuscadorDePreciosGIv1.1.apk",
   "mensaje": "Hay una nueva versión disponible.",
   "obligatoria": true,
