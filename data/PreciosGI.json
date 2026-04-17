@@ -603,9 +603,9 @@
     "PRODUCTO": "ACICLOVIR 400 MG C/ 35 TABS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "BIOMEP",
-    "UNITARIO": 216,
+    "UNITARIO": 195,
     "IVA": 0,
-    "PRECIO": 216,
+    "PRECIO": 195,
     "ANTIBIOTICO": "No"
   },
   {
@@ -615,9 +615,9 @@
     "PRODUCTO": "ACICLOVIR 400 MG C/ 35 TABS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "MACLOV",
-    "UNITARIO": 253,
+    "UNITARIO": 195,
     "IVA": 0,
-    "PRECIO": 253,
+    "PRECIO": 195,
     "ANTIBIOTICO": "No"
   },
   {
@@ -758,9 +758,9 @@
     "PRODUCTO": "ACIDO ACETIL SALICILICO ASPIRINA 500 MG C/40 TABS",
     "FRACCION": "OTC",
     "MARCA": "BAYER",
-    "UNITARIO": 69,
+    "UNITARIO": 53,
     "IVA": 0,
-    "PRECIO": 69,
+    "PRECIO": 53,
     "ANTIBIOTICO": "No"
   },
   {
@@ -782,9 +782,9 @@
     "PRODUCTO": "ACIDO ACETIL SALICILICO, CAFEINA ALKA SELTZER BOOST C/10 TABS",
     "FRACCION": "OTC",
     "MARCA": "ALKA SELTZER BOOST",
-    "UNITARIO": 68,
+    "UNITARIO": 55,
     "IVA": 0,
-    "PRECIO": 68,
+    "PRECIO": 55,
     "ANTIBIOTICO": "No"
   },
   {
@@ -794,9 +794,9 @@
     "PRODUCTO": "ACIDO ACETIL SALICILICO, CAFEINA CAFIASPIRINA C/40 TABS",
     "FRACCION": "OTC",
     "MARCA": "BAYER",
-    "UNITARIO": 75,
+    "UNITARIO": 65,
     "IVA": 0,
-    "PRECIO": 75,
+    "PRECIO": 65,
     "ANTIBIOTICO": "No"
   },
   {
@@ -806,9 +806,9 @@
     "PRODUCTO": "ACIDO ACETIL SALICILICO, CITRICO, BICARBONATO DE SODIO ALKA SELTZER C/12 TABS",
     "FRACCION": "OTC",
     "MARCA": "BAYER",
-    "UNITARIO": 69.5,
+    "UNITARIO": 52,
     "IVA": 0,
-    "PRECIO": 69.5,
+    "PRECIO": 52,
     "ANTIBIOTICO": "No"
   },
   {
@@ -902,9 +902,9 @@
     "PRODUCTO": "ACIDO ASCORBICO EFERVESCENTE 1G C/10 COMP",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "ADRIPHEL",
-    "UNITARIO": 79.5,
+    "UNITARIO": 55.5,
     "IVA": 0,
-    "PRECIO": 79.5,
+    "PRECIO": 55.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -926,9 +926,9 @@
     "PRODUCTO": "ACIDO ASCORBICO EFERVESCENTE 1G C/10 COMP",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "OXITAL-C",
-    "UNITARIO": 80,
+    "UNITARIO": 55.5,
     "IVA": 0,
-    "PRECIO": 80,
+    "PRECIO": 55.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -1149,9 +1149,9 @@
     "PRODUCTO": "ACIDO GLUTAMICO, COMPLEJO B, VITAMINA C C/60 GRAGEAS",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "GLUTAMAX C/60",
-    "UNITARIO": 95.37,
-    "IVA": 7.63,
-    "PRECIO": 103,
+    "UNITARIO": 94.91,
+    "IVA": 7.59,
+    "PRECIO": 102.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -1185,9 +1185,9 @@
     "PRODUCTO": "ACIDO NALIDIXICO, FENAZOPIRIDINA MG C/20 TABS.",
     "FRACCION": "Antibioticos",
     "MARCA": "NALIXONE",
-    "UNITARIO": 105,
+    "UNITARIO": 95,
     "IVA": 0,
-    "PRECIO": 105,
+    "PRECIO": 95,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -1209,9 +1209,9 @@
     "PRODUCTO": "ACIDO NALIDIXICO, FENAZOPIRIDINA MG C/20 TABS.",
     "FRACCION": "Antibioticos",
     "MARCA": "AZO-GEN",
-    "UNITARIO": 134,
+    "UNITARIO": 95,
     "IVA": 0,
-    "PRECIO": 134,
+    "PRECIO": 95,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -1221,9 +1221,9 @@
     "PRODUCTO": "ACONDICIONADOR DE CHILE",
     "FRACCION": "Ciudado del cabello",
     "MARCA": "CUARZO",
-    "UNITARIO": 58.33,
-    "IVA": 4.67,
-    "PRECIO": 63,
+    "UNITARIO": 46.3,
+    "IVA": 3.7,
+    "PRECIO": 50,
     "ANTIBIOTICO": "No"
   },
   {
@@ -1401,9 +1401,9 @@
     "PRODUCTO": "AGUA OXIGENADA C/115 ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMA",
-    "UNITARIO": 17.13,
-    "IVA": 1.37,
-    "PRECIO": 18.5,
+    "UNITARIO": 13.89,
+    "IVA": 1.11,
+    "PRECIO": 15,
     "ANTIBIOTICO": "No"
   },
   {
@@ -1484,9 +1484,9 @@
     "PRODUCTO": "ALBENDAZOL SUSP. 20MG c/20ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "VERMISEN",
-    "UNITARIO": 15,
+    "UNITARIO": 12,
     "IVA": 0,
-    "PRECIO": 15,
+    "PRECIO": 12,
     "ANTIBIOTICO": "No"
   },
   {
@@ -1508,9 +1508,9 @@
     "PRODUCTO": "ALBENDAZOL SUSP. 20MG c/20ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "BRUZOL 1",
-    "UNITARIO": 14,
+    "UNITARIO": 10,
     "IVA": 0,
-    "PRECIO": 14,
+    "PRECIO": 10,
     "ANTIBIOTICO": "No"
   },
   {
@@ -1712,9 +1712,9 @@
     "PRODUCTO": "ALCOHOL 500ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "LUNA",
-    "UNITARIO": 43.52,
-    "IVA": 3.48,
-    "PRECIO": 47,
+    "UNITARIO": 40.74,
+    "IVA": 3.26,
+    "PRECIO": 44,
     "ANTIBIOTICO": "No"
   },
   {
@@ -8417,9 +8417,9 @@
     "PRODUCTO": "CELECOXIB 200 MG C/10 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI",
-    "UNITARIO": 223.5,
+    "UNITARIO": 110,
     "IVA": 0,
-    "PRECIO": 223.5,
+    "PRECIO": 110,
     "ANTIBIOTICO": "No"
   },
   {
@@ -39349,9 +39349,9 @@
     "PRODUCTO": "PINAVERIO/ DIMETICONA 100/300 MG C/16 CAPS",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "GI",
-    "UNITARIO": 189,
+    "UNITARIO": 199,
     "IVA": 0,
-    "PRECIO": 189,
+    "PRECIO": 199,
     "ANTIBIOTICO": "No"
   },
   {
@@ -42204,9 +42204,9 @@
     "PRODUCTO": "CELECOXIB 200 MG C/10 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI",
-    "UNITARIO": 290,
+    "UNITARIO": 110,
     "IVA": 0,
-    "PRECIO": 290,
+    "PRECIO": 110,
     "ANTIBIOTICO": "No"
   },
   {
@@ -46350,9 +46350,9 @@
     "PRODUCTO": "ACIDO ACETIL SALICILICO 100 MG TABS.",
     "FRACCION": "OTC",
     "MARCA": "GI",
-    "UNITARIO": 38.5,
+    "UNITARIO": 29,
     "IVA": 0,
-    "PRECIO": 38.5,
+    "PRECIO": 29,
     "ANTIBIOTICO": "No"
   },
   {
@@ -46983,7 +46983,7 @@
     "ID": 3950,
     "CLAVE": 99958,
     "CODIGO": 7502008986995,
-    "PRODUCTO": "SHAMPOO PARA PIOJOS 150ML  (PIOKLEAN)",
+    "PRODUCTO": "SHAMPOO PARA PIOJOS 150ML  (PIOKLEAN)",
     "FRACCION": "Sin Fraccion",
     "MARCA": "PIOKLIN",
     "UNITARIO": 78.7,
@@ -47079,7 +47079,7 @@
     "ID": 3958,
     "CLAVE": 99971,
     "CODIGO": 7501349020412,
-    "PRODUCTO": "HIERRO DEXTRAN 100MG/2ML INYECTABLE  C/3 AMPOLLETAS DE 2ML",
+    "PRODUCTO": "HIERRO DEXTRAN 100MG/2ML INYECTABLE  C/3 AMPOLLETAS DE 2ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
     "UNITARIO": 96.5,
@@ -49037,9 +49037,9 @@
     "PRODUCTO": "CELECOXIB 200 MG C/10 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AVIVIA",
-    "UNITARIO": 195,
+    "UNITARIO": 110,
     "IVA": 0,
-    "PRECIO": 195,
+    "PRECIO": 110,
     "ANTIBIOTICO": "No"
   },
   {
@@ -51221,9 +51221,9 @@
     "PRODUCTO": "ACIDO ASCORBICO EFERVECENTE 2G C/10",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "OXITALC",
-    "UNITARIO": 117.5,
+    "UNITARIO": 83.5,
     "IVA": 0,
-    "PRECIO": 117.5,
+    "PRECIO": 83.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -51533,9 +51533,9 @@
     "PRODUCTO": "CELECOXIB 200 MG C/10 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DELECON",
-    "UNITARIO": 195,
+    "UNITARIO": 110,
     "IVA": 0,
-    "PRECIO": 195,
+    "PRECIO": 110,
     "ANTIBIOTICO": "No"
   },
   {
@@ -60204,9 +60204,9 @@
     "PRODUCTO": "AGUA OXIGENADA SOL 1000 ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "ALCOMEX",
-    "UNITARIO": 50,
-    "IVA": 4,
-    "PRECIO": 54,
+    "UNITARIO": 45.37,
+    "IVA": 3.63,
+    "PRECIO": 49,
     "ANTIBIOTICO": "No"
   },
   {
@@ -60768,9 +60768,9 @@
     "PRODUCTO": "ACIDO ACETIL SALICILICO 500 MG TABS. c/30",
     "FRACCION": "OTC",
     "MARCA": "ALPHARMA",
-    "UNITARIO": 22,
+    "UNITARIO": 17,
     "IVA": 0,
-    "PRECIO": 22,
+    "PRECIO": 17,
     "ANTIBIOTICO": "No"
   },
   {
@@ -62856,9 +62856,9 @@
     "PRODUCTO": "ACIDO ALENDRONICO TAB C/30 10 MG",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 60,
+    "UNITARIO": 47,
     "IVA": 0,
-    "PRECIO": 60,
+    "PRECIO": 47,
     "ANTIBIOTICO": "No"
   },
   {
@@ -63754,7 +63754,7 @@
     "CODIGO": 7502270750508,
     "PRODUCTO": "CITRUS C INF TAB C/100 400MG",
     "FRACCION": "Complementos y suplementos",
-    "MARCA": "LAB  FEM",
+    "MARCA": "LAB  FEM",
     "UNITARIO": 89.35,
     "IVA": 7.15,
     "PRECIO": 96.5,
@@ -64163,9 +64163,9 @@
     "PRODUCTO": "CELECOXIB 200 MG C/10 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ALPHARMA",
-    "UNITARIO": 195,
+    "UNITARIO": 110,
     "IVA": 0,
-    "PRECIO": 195,
+    "PRECIO": 110,
     "ANTIBIOTICO": "No"
   },
   {
@@ -64631,9 +64631,9 @@
     "PRODUCTO": "ACIDO ASCORBICO EFERVECENTE 2G C/10",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "ADRIPHEL",
-    "UNITARIO": 95,
+    "UNITARIO": 75,
     "IVA": 0,
-    "PRECIO": 95,
+    "PRECIO": 75,
     "ANTIBIOTICO": "No"
   },
   {
@@ -64726,7 +64726,7 @@
     "CODIGO": 7502216808614,
     "PRODUCTO": "TADALAFIL 20MG C/1 TAB",
     "FRACCION": "Pareja",
-    "MARCA": "CHRISALE TAB",
+    "MARCA": "CHRISALE TAB",
     "UNITARIO": 112,
     "IVA": 0,
     "PRECIO": 112,
@@ -64943,9 +64943,9 @@
     "PRODUCTO": "ACIDO ACETIL SALICILICO 500 MG TABS. c/30",
     "FRACCION": "OTC",
     "MARCA": "ANTACSAL",
-    "UNITARIO": 19.5,
+    "UNITARIO": 17,
     "IVA": 0,
-    "PRECIO": 19.5,
+    "PRECIO": 17,
     "ANTIBIOTICO": "No"
   },
   {
@@ -65434,7 +65434,7 @@
     "CODIGO": 7501048924608,
     "PRODUCTO": "GUANTES DESECHABLES GRANDE PAR",
     "FRACCION": "Botica y material de curacion",
-    "MARCA": "DEGASA   ",
+    "MARCA": "DEGASA   ",
     "UNITARIO": 9.26,
     "IVA": 0.74,
     "PRECIO": 10,
@@ -67151,9 +67151,9 @@
     "PRODUCTO": "ACIDO ASCORBICO 500MG C/30 CAPS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GELPHARMA",
-    "UNITARIO": 95.5,
+    "UNITARIO": 89.5,
     "IVA": 0,
-    "PRECIO": 95.5,
+    "PRECIO": 89.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -67175,9 +67175,9 @@
     "PRODUCTO": "AJOLOTIUS AJOLOGOMITAS 148 GR",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "GENETIC",
-    "UNITARIO": 64.81,
-    "IVA": 5.19,
-    "PRECIO": 70,
+    "UNITARIO": 56.94,
+    "IVA": 4.56,
+    "PRECIO": 61.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -69227,9 +69227,9 @@
     "PRODUCTO": "ACIDO NALIDIXICO, FENAZOPIRIDINA MG C/20 TABS.",
     "FRACCION": "Antibioticos",
     "MARCA": "AZURON",
-    "UNITARIO": 105,
+    "UNITARIO": 95,
     "IVA": 0,
-    "PRECIO": 105,
+    "PRECIO": 95,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -74586,7 +74586,7 @@
     "ID": 6258,
     "CLAVE": 508791,
     "CODIGO": 7502216808638,
-    "PRODUCTO": "CHRISALE TAB C/4 20 MG",
+    "PRODUCTO": "CHRISALE TAB C/4 20 MG",
     "FRACCION": "Pareja",
     "MARCA": "ULTRA",
     "UNITARIO": 350,
@@ -76276,10 +76276,10 @@
   },
   {
     "ID": 6399,
-    "CLAVE": 539,
+    "CLAVE": 99327,
     "CODIGO": 7502216803800,
-    "PRODUCTO": "OMEPRAZOL 20MG CAPSULAS MACRO",
-    "FRACCION": "Sutancias A-Z fraccion IV",
+    "PRODUCTO": "OMEPRAZOL 20MG CAP. C/60",
+    "FRACCION": "Sin Fraccion",
     "MARCA": "AVIVIA",
     "UNITARIO": 99,
     "IVA": 0,
@@ -76496,7 +76496,7 @@
     "CODIGO": 7502270750102,
     "PRODUCTO": "VITASURE SILVER TAB C/30 1.5 GR",
     "FRACCION": "Complementos y suplementos",
-    "MARCA": "LAB.  FEM",
+    "MARCA": "LAB.  FEM",
     "UNITARIO": 118.52,
     "IVA": 9.48,
     "PRECIO": 128,
@@ -81102,7 +81102,7 @@
     "ID": 6801,
     "CLAVE": 509968,
     "CODIGO": 7502214985713,
-    "PRODUCTO": "PRUDENCE UNIQ  CARTERA C/3 CONDONES",
+    "PRODUCTO": "PRUDENCE UNIQ  CARTERA C/3 CONDONES",
     "FRACCION": "Pareja",
     "MARCA": "PRUDENCE",
     "UNITARIO": 150,
@@ -82005,9 +82005,9 @@
     "PRODUCTO": "CELECOXIB 200 MG C/10 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "TEMPUSPHARMA",
-    "UNITARIO": 195,
+    "UNITARIO": 110,
     "IVA": 0,
-    "PRECIO": 195,
+    "PRECIO": 110,
     "ANTIBIOTICO": "No"
   },
   {
@@ -83576,7 +83576,7 @@
     "CODIGO": 7502270750058,
     "PRODUCTO": "CALCIO/VITAMINAS A y D TABS. c/60",
     "FRACCION": "Complementos y suplementos",
-    "MARCA": "LAB  FEM",
+    "MARCA": "LAB  FEM",
     "UNITARIO": 153.7,
     "IVA": 12.3,
     "PRECIO": 166,
@@ -87525,9 +87525,9 @@
     "PRODUCTO": "CELECOXIB 200 MG C/10 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "CICLOX",
-    "UNITARIO": 216.5,
+    "UNITARIO": 110,
     "IVA": 0,
-    "PRECIO": 216.5,
+    "PRECIO": 110,
     "ANTIBIOTICO": "No"
   },
   {
@@ -88017,9 +88017,9 @@
     "PRODUCTO": "AJOLOTIUS ELDERBERRY JBE C/250 ML",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "AJOLOTIUS",
-    "UNITARIO": 114.35,
-    "IVA": 9.15,
-    "PRECIO": 123.5,
+    "UNITARIO": 102.78,
+    "IVA": 8.22,
+    "PRECIO": 111,
     "ANTIBIOTICO": "No"
   },
   {
@@ -88793,7 +88793,7 @@
     "ID": 7443,
     "CLAVE": 512353,
     "CODIGO": 7501094917005,
-    "PRODUCTO": "GALVUS MET  50/850 MG  C/30 COMP",
+    "PRODUCTO": "GALVUS MET  50/850 MG  C/30 COMP",
     "FRACCION": "Sin Fraccion",
     "MARCA": "NOVARTIS",
     "UNITARIO": 713.5,
@@ -90315,7 +90315,7 @@
     "ID": 7575,
     "CLAVE": 4257,
     "CODIGO": 78926523,
-    "PRODUCTO": "DES. REXONA  ROLL-ON (M)ACTIVE EMOTION 50 ML",
+    "PRODUCTO": "DES. REXONA  ROLL-ON (M)ACTIVE EMOTION 50 ML",
     "FRACCION": "Sin Fraccion",
     "MARCA": "REXONA",
     "UNITARIO": 37.04,
@@ -90327,7 +90327,7 @@
     "ID": 7576,
     "CLAVE": 4258,
     "CODIGO": 78924345,
-    "PRODUCTO": "DES. REXONA  ROLL-ON (M) BAMBOO 50 ML",
+    "PRODUCTO": "DES. REXONA  ROLL-ON (M) BAMBOO 50 ML",
     "FRACCION": "Sin Fraccion",
     "MARCA": "REXONA",
     "UNITARIO": 37.04,
@@ -90339,7 +90339,7 @@
     "ID": 7577,
     "CLAVE": 4259,
     "CODIGO": 75064938,
-    "PRODUCTO": "DES. EGO ROLL ON  FORCE 45 ML",
+    "PRODUCTO": "DES. EGO ROLL ON  FORCE 45 ML",
     "FRACCION": "Sin Fraccion",
     "MARCA": "EGO",
     "UNITARIO": 32.41,
@@ -90351,7 +90351,7 @@
     "ID": 7578,
     "CLAVE": 4260,
     "CODIGO": 7501007528939,
-    "PRODUCTO": "CREMA LUBRIDERM  REPARACION  INTENSIVA  120 ML",
+    "PRODUCTO": "CREMA LUBRIDERM  REPARACION  INTENSIVA  120 ML",
     "FRACCION": "Cuidado de la piel",
     "MARCA": "LUBRIDERM",
     "UNITARIO": 37.96,
@@ -90363,7 +90363,7 @@
     "ID": 7579,
     "CLAVE": 4261,
     "CODIGO": 7501027521118,
-    "PRODUCTO": "MAMILA ADVANCED BOLD C. ANCHO FLUJO  MEDIO",
+    "PRODUCTO": "MAMILA ADVANCED BOLD C. ANCHO FLUJO  MEDIO",
     "FRACCION": "Sin Fraccion",
     "MARCA": "ADVANCED",
     "UNITARIO": 110.19,
@@ -90375,7 +90375,7 @@
     "ID": 7580,
     "CLAVE": 4262,
     "CODIGO": 7501027521101,
-    "PRODUCTO": "MAMILA ADVANCED BOLD C. ANCHO FLUJO  LENTO",
+    "PRODUCTO": "MAMILA ADVANCED BOLD C. ANCHO FLUJO  LENTO",
     "FRACCION": "Sin Fraccion",
     "MARCA": "ADVANCED",
     "UNITARIO": 110.19,
@@ -90495,7 +90495,7 @@
     "ID": 7590,
     "CLAVE": 4271,
     "CODIGO": 7501022105283,
-    "PRODUCTO": "JABON  GRISI RICITOS DE ORO MANZANILLA 100 GR",
+    "PRODUCTO": "JABON  GRISI RICITOS DE ORO MANZANILLA 100 GR",
     "FRACCION": "Sin Fraccion",
     "MARCA": "GRISI",
     "UNITARIO": 28.7,
@@ -90543,7 +90543,7 @@
     "ID": 7594,
     "CLAVE": 4275,
     "CODIGO": 650240036965,
-    "PRODUCTO": "JABON  ASEPXIA BICARBONATO 100 G",
+    "PRODUCTO": "JABON  ASEPXIA BICARBONATO 100 G",
     "FRACCION": "Sin Fraccion",
     "MARCA": "ASEPXIA",
     "UNITARIO": 52.78,
@@ -90555,7 +90555,7 @@
     "ID": 7595,
     "CLAVE": 4276,
     "CODIGO": 7506425606917,
-    "PRODUCTO": "JABON ESCUDO  BARRA ORIGINAL 150 GR (AZUL)",
+    "PRODUCTO": "JABON ESCUDO  BARRA ORIGINAL 150 GR (AZUL)",
     "FRACCION": "Sin Fraccion",
     "MARCA": "ESCUDO",
     "UNITARIO": 17.59,
@@ -94025,9 +94025,9 @@
     "PRODUCTO": "ALCOHOL 250 ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "PROTEC",
-    "UNITARIO": 34.26,
-    "IVA": 2.74,
-    "PRECIO": 37,
+    "UNITARIO": 31.48,
+    "IVA": 2.52,
+    "PRECIO": 34,
     "ANTIBIOTICO": "No"
   },
   {
@@ -94622,7 +94622,7 @@
     "ID": 7935,
     "CLAVE": 99381,
     "CODIGO": 7502009748448,
-    "PRODUCTO": "PIRFENIDONA  GEL TUBO 8 G/100 G.",
+    "PRODUCTO": "PIRFENIDONA  GEL TUBO 8 G/100 G.",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "CETILVER",
     "UNITARIO": 219,
@@ -96248,6 +96248,102 @@
     "UNITARIO": 90.74,
     "IVA": 7.26,
     "PRECIO": 98,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8071,
+    "CLAVE": 99328,
+    "CODIGO": 7501358130379,
+    "PRODUCTO": "SIMPLEX-PRO C/60 TABS. 1D/3D/6D.",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "SIMPLEX-PRO",
+    "UNITARIO": 185,
+    "IVA": 0,
+    "PRECIO": 185,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8072,
+    "CLAVE": 1249,
+    "CODIGO": 7506494600106,
+    "PRODUCTO": "SULFADIACINA DE PLATA 1G TARRO C/28g",
+    "FRACCION": "Sutancias A-Z fraccion IV",
+    "MARCA": "SCHOHEN",
+    "UNITARIO": 58,
+    "IVA": 0,
+    "PRECIO": 58,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8073,
+    "CLAVE": 721,
+    "CODIGO": 7502209858152,
+    "PRODUCTO": "AMLODIPINO 5MG C/10 TABS.",
+    "FRACCION": "Sutancias A-Z fraccion IV",
+    "MARCA": "ZAGAPSOL",
+    "UNITARIO": 25,
+    "IVA": 0,
+    "PRECIO": 25,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8074,
+    "CLAVE": 99327,
+    "CODIGO": 7502216803800123,
+    "PRODUCTO": "OMEPRAZOL 20MG CAP. C/60",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "AVIVIA",
+    "UNITARIO": 0,
+    "IVA": 0,
+    "PRECIO": 0,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8075,
+    "CLAVE": 99326,
+    "CODIGO": 7506386100158,
+    "PRODUCTO": "DIMENHIDRINATO JBE INF. FCO. C/120 ML. 250 MG/100ML",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "BENVIA",
+    "UNITARIO": 75,
+    "IVA": 0,
+    "PRECIO": 75,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8076,
+    "CLAVE": 99325,
+    "CODIGO": 7501471800265,
+    "PRODUCTO": "PANCLASA C/20 CAPS. 80/80 MG.",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "PANCLASA",
+    "UNITARIO": 279,
+    "IVA": 0,
+    "PRECIO": 279,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8077,
+    "CLAVE": 99324,
+    "CODIGO": 7502274791903,
+    "PRODUCTO": "PARACETAMOL 500 MG. C/2 TABS.",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "AMOLGEN",
+    "UNITARIO": 4,
+    "IVA": 0,
+    "PRECIO": 4,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8078,
+    "CLAVE": 99323,
+    "CODIGO": 7502001167254,
+    "PRODUCTO": "PROGESTERONA GEL 1G/100G C/APLICADOR",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "ANNEM´S",
+    "UNITARIO": 206.5,
+    "IVA": 0,
+    "PRECIO": 206.5,
     "ANTIBIOTICO": "No"
   }
 ]
