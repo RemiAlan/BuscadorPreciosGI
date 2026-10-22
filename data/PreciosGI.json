@@ -3714,9 +3714,9 @@
     "PRODUCTO": "AMOXICILINA, ACIDO CLAVULANICO 500/125 TABS. C/15",
     "FRACCION": "Antibioticos",
     "MARCA": "CLAVIPEN C/15.",
-    "UNITARIO": 117,
+    "UNITARIO": 127,
     "IVA": 0,
-    "PRECIO": 117,
+    "PRECIO": 127,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -4580,9 +4580,9 @@
     "PRODUCTO": "AZITROMICINA 500MG CAPS. c/3",
     "FRACCION": "Antibioticos",
     "MARCA": "CRAZTRONIN",
-    "UNITARIO": 122.5,
+    "UNITARIO": 123.5,
     "IVA": 0,
-    "PRECIO": 122.5,
+    "PRECIO": 123.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -4592,9 +4592,9 @@
     "PRODUCTO": "AZITROMICINA 500MG CAPS. c/3",
     "FRACCION": "Antibioticos",
     "MARCA": "SAMITROGEN",
-    "UNITARIO": 125,
+    "UNITARIO": 122.5,
     "IVA": 0,
-    "PRECIO": 125,
+    "PRECIO": 122.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -5958,9 +5958,9 @@
     "PRODUCTO": "BIBERON 4 ONZAS",
     "FRACCION": "Mama y bebe",
     "MARCA": "JALOMA",
-    "UNITARIO": 20.37,
-    "IVA": 1.63,
-    "PRECIO": 22,
+    "UNITARIO": 19.44,
+    "IVA": 1.56,
+    "PRECIO": 21,
     "ANTIBIOTICO": "No"
   },
   {
@@ -6269,9 +6269,9 @@
     "PRODUCTO": "BICARBONATO DE SODIO PURO C/100 G",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "MERCURIO",
-    "UNITARIO": 12.96,
-    "IVA": 1.04,
-    "PRECIO": 14,
+    "UNITARIO": 12.5,
+    "IVA": 1,
+    "PRECIO": 13.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -6305,9 +6305,9 @@
     "PRODUCTO": "BICARBONATO DE SODIO PURO C/100 G",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMA",
-    "UNITARIO": 15.74,
-    "IVA": 1.26,
-    "PRECIO": 17,
+    "UNITARIO": 16.67,
+    "IVA": 1.33,
+    "PRECIO": 18,
     "ANTIBIOTICO": "No"
   },
   {
@@ -6653,9 +6653,9 @@
     "PRODUCTO": "BUTILHIOSCINA 10MG GRAGEAS c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "BIOMESINA",
-    "UNITARIO": 34,
+    "UNITARIO": 33.5,
     "IVA": 0,
-    "PRECIO": 34,
+    "PRECIO": 33.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -6761,9 +6761,9 @@
     "PRODUCTO": "BUTILHIOSCINA 6.67 MG SOL GTS PEDIATRICAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ESPAFARM SOL",
-    "UNITARIO": 84.5,
+    "UNITARIO": 89.5,
     "IVA": 0,
-    "PRECIO": 84.5,
+    "PRECIO": 89.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -6965,9 +6965,9 @@
     "PRODUCTO": "CAPTOPRIL 25MG TABS. c/30",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "RILTEN",
-    "UNITARIO": 28,
+    "UNITARIO": 27,
     "IVA": 0,
-    "PRECIO": 28,
+    "PRECIO": 27,
     "ANTIBIOTICO": "No"
   },
   {
@@ -7205,9 +7205,9 @@
     "PRODUCTO": "CARISOPRODOL/DICLOFENACO GRAG",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DUOFLEX",
-    "UNITARIO": 138.5,
+    "UNITARIO": 141.5,
     "IVA": 0,
-    "PRECIO": 138.5,
+    "PRECIO": 141.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -7709,9 +7709,9 @@
     "PRODUCTO": "CEFALEXINA 250MG/5ML SUSP. c/100ML",
     "FRACCION": "Antibioticos",
     "MARCA": "CEFALVER",
-    "UNITARIO": 83.5,
+    "UNITARIO": 82,
     "IVA": 0,
-    "PRECIO": 83.5,
+    "PRECIO": 82,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -7829,9 +7829,9 @@
     "PRODUCTO": "CEFALEXINA/BROMHEXINA 500 MG C/12 CAPSULAS",
     "FRACCION": "Antibioticos",
     "MARCA": "CEPOBROM CAPS",
-    "UNITARIO": 77,
+    "UNITARIO": 73.5,
     "IVA": 0,
-    "PRECIO": 77,
+    "PRECIO": 73.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -7841,9 +7841,9 @@
     "PRODUCTO": "CEFALEXINA/BROMHEXINA SUSP. 100 ML.",
     "FRACCION": "Antibioticos",
     "MARCA": "CEPOBROM",
-    "UNITARIO": 85.5,
+    "UNITARIO": 86.5,
     "IVA": 0,
-    "PRECIO": 85.5,
+    "PRECIO": 86.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -7889,9 +7889,9 @@
     "PRODUCTO": "CEFIXIMA 1 G (100MG/5ML)",
     "FRACCION": "Antibioticos",
     "MARCA": "BENEVENTOL SUSP",
-    "UNITARIO": 179,
+    "UNITARIO": 176.5,
     "IVA": 0,
-    "PRECIO": 179,
+    "PRECIO": 176.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -8069,9 +8069,9 @@
     "PRODUCTO": "CEFTRIAXONA 1G 10 ML INTRAVENOSA",
     "FRACCION": "Antibioticos",
     "MARCA": "TRIXINA IV",
-    "UNITARIO": 89,
+    "UNITARIO": 72,
     "IVA": 0,
-    "PRECIO": 89,
+    "PRECIO": 72,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -8225,9 +8225,9 @@
     "PRODUCTO": "CEFTRIAXONA GI AMP. 1 GR. IM",
     "FRACCION": "Antibioticos",
     "MARCA": "TRIXONA I.M.",
-    "UNITARIO": 83.5,
+    "UNITARIO": 78,
     "IVA": 0,
-    "PRECIO": 83.5,
+    "PRECIO": 78,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -8321,9 +8321,9 @@
     "PRODUCTO": "CEFUROXIMA 250MG SUSP. FCO. C/50 ML",
     "FRACCION": "Antibioticos",
     "MARCA": "CEFAGEN",
-    "UNITARIO": 172,
+    "UNITARIO": 164,
     "IVA": 0,
-    "PRECIO": 172,
+    "PRECIO": 164,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -8381,9 +8381,9 @@
     "PRODUCTO": "CEFUROXIMA 500MG C/10 TABS",
     "FRACCION": "Antibioticos",
     "MARCA": "CEFAGEN",
-    "UNITARIO": 206.5,
+    "UNITARIO": 200,
     "IVA": 0,
-    "PRECIO": 206.5,
+    "PRECIO": 200,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -8501,9 +8501,9 @@
     "PRODUCTO": "CEPILLO DENTAL ADTO. NEO MOD 56 C/1 PZA",
     "FRACCION": "Higiene Bucal",
     "MARCA": "CLINIC",
-    "UNITARIO": 22.22,
-    "IVA": 1.78,
-    "PRECIO": 24,
+    "UNITARIO": 17.59,
+    "IVA": 1.41,
+    "PRECIO": 19,
     "ANTIBIOTICO": "No"
   },
   {
@@ -8681,9 +8681,9 @@
     "PRODUCTO": "CETIRIZINA 10 MG C/10 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "VISERTRAL",
-    "UNITARIO": 66,
+    "UNITARIO": 67,
     "IVA": 0,
-    "PRECIO": 66,
+    "PRECIO": 67,
     "ANTIBIOTICO": "No"
   },
   {
@@ -8705,9 +8705,9 @@
     "PRODUCTO": "CETIRIZINA 100 MG SOLUCION C/50 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "VISERTRAL",
-    "UNITARIO": 95,
+    "UNITARIO": 103,
     "IVA": 0,
-    "PRECIO": 95,
+    "PRECIO": 103,
     "ANTIBIOTICO": "No"
   },
   {
@@ -8729,9 +8729,9 @@
     "PRODUCTO": "CHOCHOS DE ARNICA C/9GR",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "LAB NARTEX",
-    "UNITARIO": 49.5,
+    "UNITARIO": 44.5,
     "IVA": 0,
-    "PRECIO": 49.5,
+    "PRECIO": 44.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -8861,9 +8861,9 @@
     "PRODUCTO": "CINARIZINA 75MG TABS. c/60",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "VENOXYL",
-    "UNITARIO": 72,
+    "UNITARIO": 77,
     "IVA": 0,
-    "PRECIO": 72,
+    "PRECIO": 77,
     "ANTIBIOTICO": "No"
   },
   {
@@ -8873,9 +8873,9 @@
     "PRODUCTO": "CINARIZINA 75MG TABS. c/60",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "CYSLEV RAAM",
-    "UNITARIO": 67.5,
+    "UNITARIO": 72,
     "IVA": 0,
-    "PRECIO": 67.5,
+    "PRECIO": 72,
     "ANTIBIOTICO": "No"
   },
   {
@@ -9209,9 +9209,9 @@
     "PRODUCTO": "CIPROFLOXACINO/DEXAMETASONA SOL OFT",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI SONS",
-    "UNITARIO": 87,
+    "UNITARIO": 86.5,
     "IVA": 0,
-    "PRECIO": 87,
+    "PRECIO": 86.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -9269,9 +9269,9 @@
     "PRODUCTO": "CISAPRIDA 10MG TABS. c/30",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "PRESISTIN",
-    "UNITARIO": 71,
+    "UNITARIO": 76,
     "IVA": 0,
-    "PRECIO": 71,
+    "PRECIO": 76,
     "ANTIBIOTICO": "No"
   },
   {
@@ -9389,9 +9389,9 @@
     "PRODUCTO": "CLARITROMICINA 125 MG SUSP C/60 ML C/JGA DOSIF",
     "FRACCION": "Antibioticos",
     "MARCA": "KROBICIN",
-    "UNITARIO": 131,
+    "UNITARIO": 126,
     "IVA": 0,
-    "PRECIO": 131,
+    "PRECIO": 126,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -9413,9 +9413,9 @@
     "PRODUCTO": "CLARITROMICINA 250 MG SUSP C/60 ML C/JGA DOSIF",
     "FRACCION": "Antibioticos",
     "MARCA": "KROBICIN",
-    "UNITARIO": 190,
+    "UNITARIO": 184,
     "IVA": 0,
-    "PRECIO": 190,
+    "PRECIO": 184,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -9533,9 +9533,9 @@
     "PRODUCTO": "CLINDAMICINA 300 MG CAPSULAS C/16",
     "FRACCION": "Antibioticos",
     "MARCA": "FOSHLENN",
-    "UNITARIO": 139,
+    "UNITARIO": 134.5,
     "IVA": 0,
-    "PRECIO": 139,
+    "PRECIO": 134.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -9773,9 +9773,9 @@
     "PRODUCTO": "CLINDAMICINA GEL 1 G TUBO C/30 GR",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DALATINA",
-    "UNITARIO": 55,
+    "UNITARIO": 54,
     "IVA": 0,
-    "PRECIO": 55,
+    "PRECIO": 54,
     "ANTIBIOTICO": "No"
   },
   {
@@ -9809,9 +9809,9 @@
     "PRODUCTO": "CLIOQUINOL 3gr CRA. TUBO c/30gr",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI",
-    "UNITARIO": 26,
+    "UNITARIO": 23.5,
     "IVA": 0,
-    "PRECIO": 26,
+    "PRECIO": 23.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -9953,9 +9953,9 @@
     "PRODUCTO": "CLONIXINATO DE LISINA 250 MG TABLETAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "LONIXER",
-    "UNITARIO": 78,
+    "UNITARIO": 65.5,
     "IVA": 0,
-    "PRECIO": 78,
+    "PRECIO": 65.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -9989,9 +9989,9 @@
     "PRODUCTO": "CLONIXINATO LISINA/BUTILHIOSCINA 250/10 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DOLTRIX",
-    "UNITARIO": 97.5,
+    "UNITARIO": 100,
     "IVA": 0,
-    "PRECIO": 97.5,
+    "PRECIO": 100,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10037,9 +10037,9 @@
     "PRODUCTO": "CLOPIDOGREL 75MG C/14 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DEVIPLAT",
-    "UNITARIO": 73.5,
+    "UNITARIO": 77,
     "IVA": 0,
-    "PRECIO": 73.5,
+    "PRECIO": 77,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10097,9 +10097,9 @@
     "PRODUCTO": "CLOPIDOGREL 75MG C/28 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DEVIPLAT",
-    "UNITARIO": 120,
+    "UNITARIO": 104.5,
     "IVA": 0,
-    "PRECIO": 120,
+    "PRECIO": 104.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10109,9 +10109,9 @@
     "PRODUCTO": "CLORAMFENICOL 0.50 G FCO GOTERO C/15 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI ALVARTIS",
-    "UNITARIO": 70,
+    "UNITARIO": 66.5,
     "IVA": 0,
-    "PRECIO": 70,
+    "PRECIO": 66.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10181,9 +10181,9 @@
     "PRODUCTO": "CLORAMFENICOL 250 MG C/12 CAPSULAS",
     "FRACCION": "Antibioticos",
     "MARCA": "LEBROCETIN",
-    "UNITARIO": 55,
+    "UNITARIO": 58.5,
     "IVA": 0,
-    "PRECIO": 55,
+    "PRECIO": 58.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -10301,9 +10301,9 @@
     "PRODUCTO": "CLORFENAMINA 50MG/100ML JARABE",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DERIMETON",
-    "UNITARIO": 29,
+    "UNITARIO": 28,
     "IVA": 0,
-    "PRECIO": 29,
+    "PRECIO": 28,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10348,9 +10348,9 @@
     "PRODUCTO": "CLORFENAMINA, Maleato 4MG TABS. C/20",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DOCSI",
-    "UNITARIO": 17.5,
+    "UNITARIO": 18.5,
     "IVA": 0,
-    "PRECIO": 17.5,
+    "PRECIO": 18.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10492,9 +10492,9 @@
     "PRODUCTO": "CLORHIDRATO DE BROMHEXINA 160 MG ADULTO FCO C/100 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "BROMICOF",
-    "UNITARIO": 45,
+    "UNITARIO": 39,
     "IVA": 0,
-    "PRECIO": 45,
+    "PRECIO": 39,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10516,9 +10516,9 @@
     "PRODUCTO": "CLORHIDRATO DE BROMHEXINA 160 MG ADULTO FCO C/100 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "BIOMEP",
-    "UNITARIO": 43.5,
+    "UNITARIO": 39.5,
     "IVA": 0,
-    "PRECIO": 43.5,
+    "PRECIO": 39.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10552,9 +10552,9 @@
     "PRODUCTO": "CLORHIDRATO DE BROMHEXINA 80 MG INFANTIL FCO C/100 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "BROMICOF",
-    "UNITARIO": 46.5,
+    "UNITARIO": 39,
     "IVA": 0,
-    "PRECIO": 46.5,
+    "PRECIO": 39,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10756,9 +10756,9 @@
     "PRODUCTO": "CLORURO BENZALCONIO (MERTIOLATE ROJO)",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "MERTODOL",
-    "UNITARIO": 22.22,
-    "IVA": 1.78,
-    "PRECIO": 24,
+    "UNITARIO": 19.91,
+    "IVA": 1.59,
+    "PRECIO": 21.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10768,9 +10768,9 @@
     "PRODUCTO": "CLORURO DE SODIO SOL. HUMECTANTE NASAL C/30 ML",
     "FRACCION": "OTC",
     "MARCA": "NASSAL",
-    "UNITARIO": 39.81,
-    "IVA": 3.19,
-    "PRECIO": 43,
+    "UNITARIO": 40.28,
+    "IVA": 3.22,
+    "PRECIO": 43.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -10780,9 +10780,9 @@
     "PRODUCTO": "CLORURO DE SODIO SOLUCION 100ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "GI",
-    "UNITARIO": 39.5,
+    "UNITARIO": 38,
     "IVA": 0,
-    "PRECIO": 39.5,
+    "PRECIO": 38,
     "ANTIBIOTICO": "No"
   },
   {
@@ -11007,9 +11007,9 @@
     "PRODUCTO": "CLOTRIMAZOL 200MG OVULOS/TUBO C/CREMA DE 10GR. AL 1%",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "CLOTRIMAZOL DUAL",
-    "UNITARIO": 81.5,
+    "UNITARIO": 82,
     "IVA": 0,
-    "PRECIO": 81.5,
+    "PRECIO": 82,
     "ANTIBIOTICO": "No"
   },
   {
@@ -11522,9 +11522,9 @@
     "PRODUCTO": "CREMA ACEITE ALMENDRAS 225 ML",
     "FRACCION": "Cuidado de la piel",
     "MARCA": "QUIMPAHARMA",
-    "UNITARIO": 110.19,
-    "IVA": 8.81,
-    "PRECIO": 119,
+    "UNITARIO": 105.56,
+    "IVA": 8.44,
+    "PRECIO": 114,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12098,9 +12098,9 @@
     "PRODUCTO": "DESLORATADINA 5MG C/10 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "HISTAPHARM",
-    "UNITARIO": 62.5,
+    "UNITARIO": 55,
     "IVA": 0,
-    "PRECIO": 62.5,
+    "PRECIO": 55,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12182,9 +12182,9 @@
     "PRODUCTO": "DESLORATADINA JARABE C/120 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "HISTAPHARM",
-    "UNITARIO": 70,
+    "UNITARIO": 57,
     "IVA": 0,
-    "PRECIO": 70,
+    "PRECIO": 57,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12434,9 +12434,9 @@
     "PRODUCTO": "DEXAMETASONA INYECTABLE 8MG c/1 AMP 2ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "BRULIN.",
-    "UNITARIO": 16.5,
+    "UNITARIO": 16,
     "IVA": 0,
-    "PRECIO": 16.5,
+    "PRECIO": 16,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12470,9 +12470,9 @@
     "PRODUCTO": "DEXAMETASONA/NEOMICINA 100/500 MG SOL OFT C/4 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GOTADEX",
-    "UNITARIO": 45,
+    "UNITARIO": 46,
     "IVA": 0,
-    "PRECIO": 45,
+    "PRECIO": 46,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12494,9 +12494,9 @@
     "PRODUCTO": "DEXAMETASONA/NEOMICINA 100/500 MG SOL OFT C/4 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DEXNE OFT",
-    "UNITARIO": 62,
+    "UNITARIO": 56.5,
     "IVA": 0,
-    "PRECIO": 62,
+    "PRECIO": 56.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12722,9 +12722,9 @@
     "PRODUCTO": "DEXTROMETORFANO/GUAIFENESINA JBE INF C/120 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "DEBEQUIN-C INF",
-    "UNITARIO": 50,
+    "UNITARIO": 54.5,
     "IVA": 0,
-    "PRECIO": 50,
+    "PRECIO": 54.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12758,9 +12758,9 @@
     "PRODUCTO": "DEXTROMETORFANO/GUAIFENESINA/CLORFENAMINA JBE INF",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "YADEGAL",
-    "UNITARIO": 63,
+    "UNITARIO": 75,
     "IVA": 0,
-    "PRECIO": 63,
+    "PRECIO": 75,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12866,9 +12866,9 @@
     "PRODUCTO": "DICLOFENACO 100MG GRAGEAS c/20",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "NEDICLON 1",
-    "UNITARIO": 38.5,
+    "UNITARIO": 35,
     "IVA": 0,
-    "PRECIO": 38.5,
+    "PRECIO": 35,
     "ANTIBIOTICO": "No"
   },
   {
@@ -12938,9 +12938,9 @@
     "PRODUCTO": "DICLOFENACO 100MG GRAGEAS c/20",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ULTRA",
-    "UNITARIO": 38.5,
+    "UNITARIO": 26,
     "IVA": 0,
-    "PRECIO": 38.5,
+    "PRECIO": 26,
     "ANTIBIOTICO": "No"
   },
   {
@@ -13081,9 +13081,9 @@
     "PRODUCTO": "DICLOFENACO DIETI 1.16 G GEL TUBO C/60 G",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "FENAGEL",
-    "UNITARIO": 45,
+    "UNITARIO": 44.5,
     "IVA": 0,
-    "PRECIO": 45,
+    "PRECIO": 44.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -13429,9 +13429,9 @@
     "PRODUCTO": "DICLOXACILINA 500 MG C/20 CAPSULAS",
     "FRACCION": "Antibioticos",
     "MARCA": "BUTIMAXIL",
-    "UNITARIO": 75,
+    "UNITARIO": 77,
     "IVA": 0,
-    "PRECIO": 75,
+    "PRECIO": 77,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -13906,9 +13906,9 @@
     "PRODUCTO": "LEVONORGESTREL 1.5MG C/1 TAB",
     "FRACCION": "Pareja",
     "MARCA": "DKT",
-    "UNITARIO": 65,
+    "UNITARIO": 65.5,
     "IVA": 0,
-    "PRECIO": 65,
+    "PRECIO": 65.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -14002,9 +14002,9 @@
     "PRODUCTO": "DOXICICLINA 100MG CAPS. c/10",
     "FRACCION": "Antibioticos",
     "MARCA": "ROXIDOLIN",
-    "UNITARIO": 36.5,
+    "UNITARIO": 38.5,
     "IVA": 0,
-    "PRECIO": 36.5,
+    "PRECIO": 38.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -14134,9 +14134,9 @@
     "PRODUCTO": "ENALAPRIL 10MG TABS. c/30",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "VEXOTIL",
-    "UNITARIO": 34.5,
+    "UNITARIO": 33.5,
     "IVA": 0,
-    "PRECIO": 34.5,
+    "PRECIO": 33.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -14562,9 +14562,9 @@
     "PRODUCTO": "ESPIRONOLACTONA 25 MG C/20 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI",
-    "UNITARIO": 84.5,
+    "UNITARIO": 79.5,
     "IVA": 0,
-    "PRECIO": 84.5,
+    "PRECIO": 79.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -14586,9 +14586,9 @@
     "PRODUCTO": "ESPIRONOLACTONA 25 MG C/20 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI",
-    "UNITARIO": 68.5,
+    "UNITARIO": 69,
     "IVA": 0,
-    "PRECIO": 68.5,
+    "PRECIO": 69,
     "ANTIBIOTICO": "No"
   },
   {
@@ -15252,9 +15252,9 @@
     "PRODUCTO": "FLUCONAZOL 150 MG C/1 CAPSULA",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 36,
+    "UNITARIO": 36.5,
     "IVA": 0,
-    "PRECIO": 36,
+    "PRECIO": 36.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -15561,9 +15561,9 @@
     "PRODUCTO": "FLUOXETINA 20 MG TAB C/28",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ZATIN",
-    "UNITARIO": 115.5,
+    "UNITARIO": 74.5,
     "IVA": 0,
-    "PRECIO": 115.5,
+    "PRECIO": 74.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -15609,9 +15609,9 @@
     "PRODUCTO": "FLUOXETINA 20MG CAPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "F-EXINA",
-    "UNITARIO": 41,
+    "UNITARIO": 39.5,
     "IVA": 0,
-    "PRECIO": 41,
+    "PRECIO": 39.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -16063,9 +16063,9 @@
     "CODIGO": 7501563380095,
     "PRODUCTO": "FUROSEMIDA 40MG TABS. c/20",
     "FRACCION": "Sutancias A-Z fraccion IV",
-    "UNITARIO": 18,
+    "UNITARIO": 16,
     "IVA": 0,
-    "PRECIO": 18,
+    "PRECIO": 16,
     "ANTIBIOTICO": "No"
   },
   {
@@ -16397,9 +16397,9 @@
     "PRODUCTO": "GASA 10X10 SOBRE C/10",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMA",
-    "UNITARIO": 19.44,
-    "IVA": 1.56,
-    "PRECIO": 21,
+    "UNITARIO": 18.52,
+    "IVA": 1.48,
+    "PRECIO": 20,
     "ANTIBIOTICO": "No"
   },
   {
@@ -16981,9 +16981,9 @@
     "PRODUCTO": "GLICEROL C/10 SUPOSITORIOS ADULTO",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "SENOSIAN NADRO",
-    "UNITARIO": 78,
+    "UNITARIO": 82.5,
     "IVA": 0,
-    "PRECIO": 78,
+    "PRECIO": 82.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17004,9 +17004,9 @@
     "PRODUCTO": "GLICEROL C/10 SUPOSITORIOS INFANTIL",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "SENOSIAIN NI?O",
-    "UNITARIO": 72,
+    "UNITARIO": 81,
     "IVA": 0,
-    "PRECIO": 72,
+    "PRECIO": 81,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17028,9 +17028,9 @@
     "PRODUCTO": "GLICEROL C/10 SUPOSITORIOS PEDIATRICOS",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "SENOSIAN NADRO",
-    "UNITARIO": 77,
+    "UNITARIO": 80.5,
     "IVA": 0,
-    "PRECIO": 77,
+    "PRECIO": 80.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17052,9 +17052,9 @@
     "PRODUCTO": "GLIMEPIRIDA 2MG C/30 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ZUKEDIB",
-    "UNITARIO": 74.5,
+    "UNITARIO": 68,
     "IVA": 0,
-    "PRECIO": 74.5,
+    "PRECIO": 68,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17124,9 +17124,9 @@
     "PRODUCTO": "GLIMEPIRIDA 4MG C/30 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ZUKEDIB",
-    "UNITARIO": 81.5,
+    "UNITARIO": 69,
     "IVA": 0,
-    "PRECIO": 81.5,
+    "PRECIO": 69,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17253,9 +17253,9 @@
     "PRODUCTO": "GLUCOSAMINA, CONDROITINA, AC ASCORBICO C/40 CAPS",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "FLEXTRIN",
-    "UNITARIO": 133,
+    "UNITARIO": 134.5,
     "IVA": 0,
-    "PRECIO": 133,
+    "PRECIO": 134.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17349,9 +17349,9 @@
     "PRODUCTO": "GLUCOSAMINA/CONDROITINA/METILSULFONILMETANO GEL",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "GLUCOMS",
-    "UNITARIO": 78.24,
-    "IVA": 6.26,
-    "PRECIO": 84.5,
+    "UNITARIO": 81.48,
+    "IVA": 6.52,
+    "PRECIO": 88,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17385,9 +17385,9 @@
     "PRODUCTO": "GOTERO DE CRISTAL",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "LOMAC",
-    "UNITARIO": 6.94,
-    "IVA": 0.56,
-    "PRECIO": 7.5,
+    "UNITARIO": 6.48,
+    "IVA": 0.52,
+    "PRECIO": 7,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17456,9 +17456,9 @@
     "PRODUCTO": "GUAIFENESINA/OXOLAMINA AD. JBE 140 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "GUAXOQUIM AD",
-    "UNITARIO": 67,
+    "UNITARIO": 63.5,
     "IVA": 0,
-    "PRECIO": 67,
+    "PRECIO": 63.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17863,9 +17863,9 @@
     "PRODUCTO": "HIDROCLOROTIAZIDA 25MG C/20 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ULTRA",
-    "UNITARIO": 33,
+    "UNITARIO": 31,
     "IVA": 0,
-    "PRECIO": 33,
+    "PRECIO": 31,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17875,9 +17875,9 @@
     "PRODUCTO": "HIDROCLOROTIAZIDA 25MG C/20 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ACORTIZ",
-    "UNITARIO": 79,
+    "UNITARIO": 80,
     "IVA": 0,
-    "PRECIO": 79,
+    "PRECIO": 80,
     "ANTIBIOTICO": "No"
   },
   {
@@ -17959,9 +17959,9 @@
     "PRODUCTO": "HIDROCORTISONA 500 MG SOL. INY.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "FLEBONADROL",
-    "UNITARIO": 98,
+    "UNITARIO": 95,
     "IVA": 0,
-    "PRECIO": 98,
+    "PRECIO": 95,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18030,9 +18030,9 @@
     "PRODUCTO": "HIDROXIDO DE MAGNECIO SUSP 360 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "NORMEX",
-    "UNITARIO": 54,
+    "UNITARIO": 58.5,
     "IVA": 0,
-    "PRECIO": 54,
+    "PRECIO": 58.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18221,9 +18221,9 @@
     "PRODUCTO": "IBUPROFENO 2 GR SUSP. 120 ML.",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "DOLPRIN",
-    "UNITARIO": 62,
+    "UNITARIO": 56,
     "IVA": 0,
-    "PRECIO": 62,
+    "PRECIO": 56,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18233,9 +18233,9 @@
     "PRODUCTO": "IBUPROFENO 2 GR SUSP. 120 ML.",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "AFLUSIL",
-    "UNITARIO": 51,
+    "UNITARIO": 53.5,
     "IVA": 0,
-    "PRECIO": 51,
+    "PRECIO": 53.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18340,9 +18340,9 @@
     "PRODUCTO": "IBUPROFENO 40 MG GOTAS",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "FIDOIN-Q",
-    "UNITARIO": 74.5,
+    "UNITARIO": 70.5,
     "IVA": 0,
-    "PRECIO": 74.5,
+    "PRECIO": 70.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18423,9 +18423,9 @@
     "PRODUCTO": "IBUPROFENO 400MG TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AFLENO",
-    "UNITARIO": 30,
+    "UNITARIO": 28,
     "IVA": 0,
-    "PRECIO": 30,
+    "PRECIO": 28,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18506,9 +18506,9 @@
     "PRODUCTO": "IBUPROFENO 400MG TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DOLPROFEN",
-    "UNITARIO": 30,
+    "UNITARIO": 28.5,
     "IVA": 0,
-    "PRECIO": 30,
+    "PRECIO": 28.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18518,9 +18518,9 @@
     "PRODUCTO": "IBUPROFENO 400MG TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ADOPREN",
-    "UNITARIO": 30,
+    "UNITARIO": 28,
     "IVA": 0,
-    "PRECIO": 30,
+    "PRECIO": 28,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18650,9 +18650,9 @@
     "PRODUCTO": "INDOMETACINA/BETAMETASONA/METOCARBAMOL C/20 CAP",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ARDOSONS",
-    "UNITARIO": 103,
+    "UNITARIO": 96,
     "IVA": 0,
-    "PRECIO": 103,
+    "PRECIO": 96,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18816,9 +18816,9 @@
     "PRODUCTO": "ISOSORBIDA 10MG TABS. c/20",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DEBISOR",
-    "UNITARIO": 16.5,
+    "UNITARIO": 18,
     "IVA": 0,
-    "PRECIO": 16.5,
+    "PRECIO": 18,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18921,9 +18921,9 @@
     "PRODUCTO": "ITRACONAZOL 100MG CAPS. c/15",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "LOZARTIL*",
-    "UNITARIO": 110,
+    "UNITARIO": 114,
     "IVA": 0,
-    "PRECIO": 110,
+    "PRECIO": 114,
     "ANTIBIOTICO": "No"
   },
   {
@@ -18945,9 +18945,9 @@
     "PRODUCTO": "ITRACONAZOL 100MG CAPS. c/15",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "RIXTAL",
-    "UNITARIO": 120,
+    "UNITARIO": 112,
     "IVA": 0,
-    "PRECIO": 120,
+    "PRECIO": 112,
     "ANTIBIOTICO": "No"
   },
   {
@@ -20101,9 +20101,9 @@
     "PRODUCTO": "JUGO DE ARANDANO/EXTO. DE HIEDRA/EXTO. BUGAMBILIA. JBE",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "SITO-GRIX",
-    "UNITARIO": 82.5,
+    "UNITARIO": 79,
     "IVA": 0,
-    "PRECIO": 82.5,
+    "PRECIO": 79,
     "ANTIBIOTICO": "No"
   },
   {
@@ -20353,9 +20353,9 @@
     "PRODUCTO": "KETOCONAZOL 2.0 gr SHAMPOO c/120ML",
     "FRACCION": "Ciudado del cabello",
     "MARCA": "TINIAZOL",
-    "UNITARIO": 75.5,
+    "UNITARIO": 73,
     "IVA": 0,
-    "PRECIO": 75.5,
+    "PRECIO": 73,
     "ANTIBIOTICO": "No"
   },
   {
@@ -20542,9 +20542,9 @@
     "PRODUCTO": "KETOPROFENO 100MG C/15 CAPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ARTHRIL",
-    "UNITARIO": 74,
+    "UNITARIO": 77,
     "IVA": 0,
-    "PRECIO": 74,
+    "PRECIO": 77,
     "ANTIBIOTICO": "No"
   },
   {
@@ -20589,9 +20589,9 @@
     "PRODUCTO": "KETOROLACO 10MG TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "MAVIDOL",
-    "UNITARIO": 30,
+    "UNITARIO": 28,
     "IVA": 0,
-    "PRECIO": 30,
+    "PRECIO": 28,
     "ANTIBIOTICO": "No"
   },
   {
@@ -21292,9 +21292,9 @@
     "PRODUCTO": "LANSOPRAZOL 30 MG C/14 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMDORY",
-    "UNITARIO": 100,
+    "UNITARIO": 99.5,
     "IVA": 0,
-    "PRECIO": 100,
+    "PRECIO": 99.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -21387,9 +21387,9 @@
     "PRODUCTO": "LAVA OJOS DE PLASTICO",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "LOMAC",
-    "UNITARIO": 11.11,
-    "IVA": 0.89,
-    "PRECIO": 12,
+    "UNITARIO": 10.19,
+    "IVA": 0.81,
+    "PRECIO": 11,
     "ANTIBIOTICO": "No"
   },
   {
@@ -21447,9 +21447,9 @@
     "PRODUCTO": "LEVOFLOXACINO 500 MG C/7 TABS",
     "FRACCION": "Antibioticos",
     "MARCA": "COLLINS",
-    "UNITARIO": 183.5,
+    "UNITARIO": 161,
     "IVA": 0,
-    "PRECIO": 183.5,
+    "PRECIO": 161,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -21471,9 +21471,9 @@
     "PRODUCTO": "LEVOFLOXACINO 500 MG C/7 TABS",
     "FRACCION": "Antibioticos",
     "MARCA": "CINA",
-    "UNITARIO": 160.5,
+    "UNITARIO": 161,
     "IVA": 0,
-    "PRECIO": 160.5,
+    "PRECIO": 161,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -21495,9 +21495,9 @@
     "PRODUCTO": "LEVOFLOXACINO 750MG C/7 TABS",
     "FRACCION": "Antibioticos",
     "MARCA": "CINA 750",
-    "UNITARIO": 219,
+    "UNITARIO": 220.5,
     "IVA": 0,
-    "PRECIO": 219,
+    "PRECIO": 220.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -22860,9 +22860,9 @@
     "PRODUCTO": "LOSARTAN 50 MG c/30 COMPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "PUNAB",
-    "UNITARIO": 55,
+    "UNITARIO": 52.5,
     "IVA": 0,
-    "PRECIO": 55,
+    "PRECIO": 52.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -22908,9 +22908,9 @@
     "PRODUCTO": "LOSARTAN 50 MG c/30 COMPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ULTRA",
-    "UNITARIO": 41.5,
+    "UNITARIO": 31.5,
     "IVA": 0,
-    "PRECIO": 41.5,
+    "PRECIO": 31.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -23124,9 +23124,9 @@
     "PRODUCTO": "MAGALDRATO 8G./DIMETICONA 1G. FCO C/250ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "GALAVER",
-    "UNITARIO": 91,
+    "UNITARIO": 96.5,
     "IVA": 0,
-    "PRECIO": 91,
+    "PRECIO": 96.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -23172,9 +23172,9 @@
     "PRODUCTO": "MAGALDRATO, DIMETICONA 80/10 MG/1 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "GALAVER SOBRES",
-    "UNITARIO": 65,
+    "UNITARIO": 62.5,
     "IVA": 0,
-    "PRECIO": 65,
+    "PRECIO": 62.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -23504,9 +23504,9 @@
     "PRODUCTO": "MECLIZINA/PIRIDOXINA TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "MECLISONS",
-    "UNITARIO": 55,
+    "UNITARIO": 55.5,
     "IVA": 0,
-    "PRECIO": 55,
+    "PRECIO": 55.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -23588,9 +23588,9 @@
     "PRODUCTO": "MELATONINA 3 MG C/60 TAB",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "REVENOX",
-    "UNITARIO": 125,
+    "UNITARIO": 114.5,
     "IVA": 0,
-    "PRECIO": 125,
+    "PRECIO": 114.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -23648,9 +23648,9 @@
     "PRODUCTO": "MELOXICAM 15 MG C/10 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "MAVICAM",
-    "UNITARIO": 52,
+    "UNITARIO": 51,
     "IVA": 0,
-    "PRECIO": 52,
+    "PRECIO": 51,
     "ANTIBIOTICO": "No"
   },
   {
@@ -23708,9 +23708,9 @@
     "PRODUCTO": "MELOXICAM/METOCARBAMOL 15/215MG C/10 CAPS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "FLEXIVER COMP.",
-    "UNITARIO": 97,
+    "UNITARIO": 91.5,
     "IVA": 0,
-    "PRECIO": 97,
+    "PRECIO": 91.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -23823,9 +23823,9 @@
     "PRODUCTO": "MENTOL/ ARNICA( CALENDULA/SABILA GEL TBO C/100G.",
     "FRACCION": "Cuidado de la piel",
     "MARCA": "SALUDOL",
-    "UNITARIO": 106.48,
-    "IVA": 8.52,
-    "PRECIO": 115,
+    "UNITARIO": 87.04,
+    "IVA": 6.96,
+    "PRECIO": 94,
     "ANTIBIOTICO": "No"
   },
   {
@@ -24228,9 +24228,9 @@
     "PRODUCTO": "METAMIZOL SODICO JARABE c/100ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "NEOSEDAL",
-    "UNITARIO": 55,
+    "UNITARIO": 57,
     "IVA": 0,
-    "PRECIO": 55,
+    "PRECIO": 57,
     "ANTIBIOTICO": "No"
   },
   {
@@ -25608,9 +25608,9 @@
     "PRODUCTO": "MICONAZOL 2gr CRA. TUBO c/20gr",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "MENAZAN",
-    "UNITARIO": 24.5,
+    "UNITARIO": 25,
     "IVA": 0,
-    "PRECIO": 24.5,
+    "PRECIO": 25,
     "ANTIBIOTICO": "No"
   },
   {
@@ -25775,9 +25775,9 @@
     "PRODUCTO": "MICROPORE 1.25 X 9.1 COLOR PIEL",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "LOMAC",
-    "UNITARIO": 18.06,
-    "IVA": 1.44,
-    "PRECIO": 19.5,
+    "UNITARIO": 11.11,
+    "IVA": 0.89,
+    "PRECIO": 12,
     "ANTIBIOTICO": "No"
   },
   {
@@ -28355,9 +28355,9 @@
     "PRODUCTO": "OBAO FRESCRA FLORAL 24H ROLL ON C/65G P/MUJER",
     "FRACCION": "Higiene Corporal",
     "MARCA": "LOREAL",
-    "UNITARIO": 35.19,
-    "IVA": 2.81,
-    "PRECIO": 38,
+    "UNITARIO": 33.33,
+    "IVA": 2.67,
+    "PRECIO": 36,
     "ANTIBIOTICO": "No"
   },
   {
@@ -28367,9 +28367,9 @@
     "PRODUCTO": "OBAO FRESCURA SUAVE 24H ROLL ON C/65G P/MUJER",
     "FRACCION": "Higiene Corporal",
     "MARCA": "LOREAL",
-    "UNITARIO": 35.19,
-    "IVA": 2.81,
-    "PRECIO": 38,
+    "UNITARIO": 33.33,
+    "IVA": 2.67,
+    "PRECIO": 36,
     "ANTIBIOTICO": "No"
   },
   {
@@ -28379,9 +28379,9 @@
     "PRODUCTO": "OBAO MEN ACTIVE 24H ROLL ON C/65G",
     "FRACCION": "Higiene Corporal",
     "MARCA": "LOREAL",
-    "UNITARIO": 35.19,
-    "IVA": 2.81,
-    "PRECIO": 38,
+    "UNITARIO": 33.33,
+    "IVA": 2.67,
+    "PRECIO": 36,
     "ANTIBIOTICO": "No"
   },
   {
@@ -28391,9 +28391,9 @@
     "PRODUCTO": "OBAO MEN AUDAZ 24H ROLL ON C/65G",
     "FRACCION": "Higiene Corporal",
     "MARCA": "LOREAL",
-    "UNITARIO": 35.19,
-    "IVA": 2.81,
-    "PRECIO": 38,
+    "UNITARIO": 33.33,
+    "IVA": 2.67,
+    "PRECIO": 36,
     "ANTIBIOTICO": "No"
   },
   {
@@ -28403,9 +28403,9 @@
     "PRODUCTO": "OBAO PIEL DELICADA 24H ROLL ON C/65G P/MUJER",
     "FRACCION": "Higiene Corporal",
     "MARCA": "LOREAL",
-    "UNITARIO": 35.19,
-    "IVA": 2.81,
-    "PRECIO": 38,
+    "UNITARIO": 33.33,
+    "IVA": 2.67,
+    "PRECIO": 36,
     "ANTIBIOTICO": "No"
   },
   {
@@ -28451,9 +28451,9 @@
     "PRODUCTO": "OFLOXACINO 400 MG C/8 TABLETAS",
     "FRACCION": "Antibioticos",
     "MARCA": "FLOSEP",
-    "UNITARIO": 92,
+    "UNITARIO": 91.5,
     "IVA": 0,
-    "PRECIO": 92,
+    "PRECIO": 91.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -29986,9 +29986,9 @@
     "PRODUCTO": "PARACETAMOL, BUTILHIOSCINA 500/10 MG C/20 TABLETAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "PRECICOL",
-    "UNITARIO": 113.5,
+    "UNITARIO": 113,
     "IVA": 0,
-    "PRECIO": 113.5,
+    "PRECIO": 113,
     "ANTIBIOTICO": "No"
   },
   {
@@ -29998,9 +29998,9 @@
     "PRODUCTO": "PARACETAMOL, BUTILHIOSCINA 500/10 MG C/20 TABLETAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "VILADOL PLUS",
-    "UNITARIO": 112.5,
+    "UNITARIO": 108,
     "IVA": 0,
-    "PRECIO": 112.5,
+    "PRECIO": 108,
     "ANTIBIOTICO": "No"
   },
   {
@@ -30106,9 +30106,9 @@
     "PRODUCTO": "PARACETAMOL, IBUPROFENO 325/200 MG C/20 TAB",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "DUALGOS",
-    "UNITARIO": 46.5,
+    "UNITARIO": 49,
     "IVA": 0,
-    "PRECIO": 46.5,
+    "PRECIO": 49,
     "ANTIBIOTICO": "No"
   },
   {
@@ -33906,9 +33906,9 @@
     "PRODUCTO": "SUBSALICILATO DE BISMUTO 120 ml.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "SIPAROX",
-    "UNITARIO": 65,
+    "UNITARIO": 64.5,
     "IVA": 0,
-    "PRECIO": 65,
+    "PRECIO": 64.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -34468,9 +34468,9 @@
     "PRODUCTO": "TAMSULOSINA 0.4MG C/20 CAPS L/P",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "LANDS TEINER",
-    "UNITARIO": 119,
+    "UNITARIO": 109,
     "IVA": 0,
-    "PRECIO": 119,
+    "PRECIO": 109,
     "ANTIBIOTICO": "No"
   },
   {
@@ -34587,9 +34587,9 @@
     "PRODUCTO": "TARRO HISOPOS C/100 PZAS",
     "FRACCION": "Higiene Corporal",
     "MARCA": "KUITS",
-    "UNITARIO": 25.93,
-    "IVA": 2.07,
-    "PRECIO": 28,
+    "UNITARIO": 22.69,
+    "IVA": 1.81,
+    "PRECIO": 24.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -34869,9 +34869,9 @@
     "PRODUCTO": "TERBINAFINA 250 MG C/7 TABS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ERBITRAX TABS",
-    "UNITARIO": 128,
+    "UNITARIO": 123,
     "IVA": 0,
-    "PRECIO": 128,
+    "PRECIO": 123,
     "ANTIBIOTICO": "No"
   },
   {
@@ -34953,9 +34953,9 @@
     "PRODUCTO": "TERBINAFINA CREMA C/15 G",
     "FRACCION": "Cuidado de manos y pies",
     "MARCA": "ERBITRAX",
-    "UNITARIO": 41,
+    "UNITARIO": 42.5,
     "IVA": 0,
-    "PRECIO": 41,
+    "PRECIO": 42.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -35382,9 +35382,9 @@
     "PRODUCTO": "TIAMINA/PIRIDOXINA/CIANOCOBALAMINA/DICLOFENACO C/3 AMPULAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "TRIBEDOCE F COMP",
-    "UNITARIO": 93,
+    "UNITARIO": 100.5,
     "IVA": 0,
-    "PRECIO": 93,
+    "PRECIO": 100.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -37459,9 +37459,9 @@
     "PRODUCTO": "VENDA ENYESADA 10CM X 2.75 M.",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "GALIA TEXTIL",
-    "UNITARIO": 31.94,
-    "IVA": 2.56,
-    "PRECIO": 34.5,
+    "UNITARIO": 29.17,
+    "IVA": 2.33,
+    "PRECIO": 31.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -37483,9 +37483,9 @@
     "PRODUCTO": "VENDA ENYESADA 15CM X 2.75 M.",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "GALIA TEXTIL",
-    "UNITARIO": 37.96,
-    "IVA": 3.04,
-    "PRECIO": 41,
+    "UNITARIO": 39.35,
+    "IVA": 3.15,
+    "PRECIO": 42.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -37507,9 +37507,9 @@
     "PRODUCTO": "VENDA ENYESADA 5CM X 2.75 M.",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "GALIA TEXTIL",
-    "UNITARIO": 24.07,
-    "IVA": 1.93,
-    "PRECIO": 26,
+    "UNITARIO": 23.61,
+    "IVA": 1.89,
+    "PRECIO": 25.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -37579,9 +37579,9 @@
     "PRODUCTO": "VERAPAMILO 80MG GRAGEAS c/20",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "VEPILTAX",
-    "UNITARIO": 60,
+    "UNITARIO": 60.5,
     "IVA": 0,
-    "PRECIO": 60,
+    "PRECIO": 60.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -37662,9 +37662,9 @@
     "PRODUCTO": "VITAMINA A PALMITATO DE RETINOL 50,000 UI C/40 CAPS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "RETIGEL",
-    "UNITARIO": 62,
+    "UNITARIO": 44,
     "IVA": 0,
-    "PRECIO": 62,
+    "PRECIO": 44,
     "ANTIBIOTICO": "No"
   },
   {
@@ -37983,9 +37983,9 @@
     "PRODUCTO": "VITAMINAS A/C/D SOL. 15ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "VI-DEA-C",
-    "UNITARIO": 45,
+    "UNITARIO": 43.5,
     "IVA": 0,
-    "PRECIO": 45,
+    "PRECIO": 43.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -38354,9 +38354,9 @@
     "PRODUCTO": "YODOPOVIDONA 8 G. ESPUMA FCO C/120 ML.",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMA",
-    "UNITARIO": 59.26,
-    "IVA": 4.74,
-    "PRECIO": 64,
+    "UNITARIO": 59.72,
+    "IVA": 4.78,
+    "PRECIO": 64.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -38413,9 +38413,9 @@
     "PRODUCTO": "YODOPOVIDONA ANTISEPTICA c/120ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMADINE",
-    "UNITARIO": 47.69,
-    "IVA": 3.81,
-    "PRECIO": 51.5,
+    "UNITARIO": 44.44,
+    "IVA": 3.56,
+    "PRECIO": 48,
     "ANTIBIOTICO": "No"
   },
   {
@@ -38437,9 +38437,9 @@
     "PRODUCTO": "YODOPOVIDONA BUCOFARINGEO c/120ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMADINE",
-    "UNITARIO": 79.17,
-    "IVA": 6.33,
-    "PRECIO": 85.5,
+    "UNITARIO": 68.52,
+    "IVA": 5.48,
+    "PRECIO": 74,
     "ANTIBIOTICO": "No"
   },
   {
@@ -38509,9 +38509,9 @@
     "PRODUCTO": "YODOPOVIDONA BUCOFARINGEO c/120ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "SOLVIN",
-    "UNITARIO": 43.52,
-    "IVA": 3.48,
-    "PRECIO": 47,
+    "UNITARIO": 44.44,
+    "IVA": 3.56,
+    "PRECIO": 48,
     "ANTIBIOTICO": "No"
   },
   {
@@ -38773,9 +38773,9 @@
     "PRODUCTO": "CEFIXIMA 400 MG C/6 CAPS",
     "FRACCION": "Antibioticos",
     "MARCA": "BENEVENTOL",
-    "UNITARIO": 268.97,
+    "UNITARIO": 275,
     "IVA": 0,
-    "PRECIO": 268.97,
+    "PRECIO": 275,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -38917,9 +38917,9 @@
     "PRODUCTO": "DOXICICLINA 100MG CAPS. c/10",
     "FRACCION": "Antibioticos",
     "MARCA": "GI",
-    "UNITARIO": 44,
+    "UNITARIO": 33.5,
     "IVA": 0,
-    "PRECIO": 44,
+    "PRECIO": 33.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -38977,9 +38977,9 @@
     "PRODUCTO": "FLUOXETINA 20MG CAPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI",
-    "UNITARIO": 34.5,
+    "UNITARIO": 35.5,
     "IVA": 0,
-    "PRECIO": 34.5,
+    "PRECIO": 35.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -39061,9 +39061,9 @@
     "PRODUCTO": "IRBESARTAN 150 MG TABLETAS C/14",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI",
-    "UNITARIO": 124.5,
+    "UNITARIO": 105.5,
     "IVA": 0,
-    "PRECIO": 124.5,
+    "PRECIO": 105.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -39133,9 +39133,9 @@
     "PRODUCTO": "LEVETIRACETAM 1000 MG C/30 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "NOVAG",
-    "UNITARIO": 212,
+    "UNITARIO": 210,
     "IVA": 0,
-    "PRECIO": 212,
+    "PRECIO": 210,
     "ANTIBIOTICO": "No"
   },
   {
@@ -39181,9 +39181,9 @@
     "PRODUCTO": "MANZANILLA/ HIALURONATO SOL OFT",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "OPTIMILA H",
-    "UNITARIO": 69.91,
-    "IVA": 5.59,
-    "PRECIO": 75.5,
+    "UNITARIO": 76.85,
+    "IVA": 6.15,
+    "PRECIO": 83,
     "ANTIBIOTICO": "No"
   },
   {
@@ -39733,9 +39733,9 @@
     "PRODUCTO": "DESLORATADINA JARABE C/120 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "BLOTAMIN",
-    "UNITARIO": 105.5,
+    "UNITARIO": 99,
     "IVA": 0,
-    "PRECIO": 105.5,
+    "PRECIO": 99,
     "ANTIBIOTICO": "No"
   },
   {
@@ -39745,9 +39745,9 @@
     "PRODUCTO": "DICLOFENACO SODICO 75MG INYECTABLE c/2 AMP.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 47,
+    "UNITARIO": 29,
     "IVA": 0,
-    "PRECIO": 47,
+    "PRECIO": 29,
     "ANTIBIOTICO": "No"
   },
   {
@@ -40225,9 +40225,9 @@
     "PRODUCTO": "REPELENTE DE INSECTOS ECOLOGICO CON EXTRACTOS NATURALES C/130 ML",
     "FRACCION": "Cuidado de la piel",
     "MARCA": "BYE BITES",
-    "UNITARIO": 95.37,
-    "IVA": 7.63,
-    "PRECIO": 103,
+    "UNITARIO": 91.67,
+    "IVA": 7.33,
+    "PRECIO": 99,
     "ANTIBIOTICO": "No"
   },
   {
@@ -40285,9 +40285,9 @@
     "PRODUCTO": "SABA PROTECTORES C/28 PIEZAZ",
     "FRACCION": "Higiene Corporal",
     "MARCA": "SABA",
-    "UNITARIO": 40,
+    "UNITARIO": 34,
     "IVA": 0,
-    "PRECIO": 40,
+    "PRECIO": 34,
     "ANTIBIOTICO": "No"
   },
   {
@@ -40561,9 +40561,9 @@
     "PRODUCTO": "ISOCONAZOL 1G CREMA TOPICA",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "LICOM",
-    "UNITARIO": 58,
+    "UNITARIO": 58.5,
     "IVA": 0,
-    "PRECIO": 58,
+    "PRECIO": 58.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -40681,9 +40681,9 @@
     "PRODUCTO": "GABAPENTINA 300MG C/16 CAPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "WERMY",
-    "UNITARIO": 101.5,
+    "UNITARIO": 95.5,
     "IVA": 0,
-    "PRECIO": 101.5,
+    "PRECIO": 95.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -41329,9 +41329,9 @@
     "PRODUCTO": "DIMETICONA SUSP. GOTAS C/30 ML.",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "DIOTEXONA",
-    "UNITARIO": 60,
+    "UNITARIO": 62.5,
     "IVA": 0,
-    "PRECIO": 60,
+    "PRECIO": 62.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -42096,9 +42096,9 @@
     "PRODUCTO": "GABAPENTINA 300MG C/16 CAPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI",
-    "UNITARIO": 83,
+    "UNITARIO": 78,
     "IVA": 0,
-    "PRECIO": 83,
+    "PRECIO": 78,
     "ANTIBIOTICO": "No"
   },
   {
@@ -42108,9 +42108,9 @@
     "PRODUCTO": "LOSARTAN 50 MG c/30 COMPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "GI SHOEN",
-    "UNITARIO": 51,
+    "UNITARIO": 50,
     "IVA": 0,
-    "PRECIO": 51,
+    "PRECIO": 50,
     "ANTIBIOTICO": "No"
   },
   {
@@ -42240,9 +42240,9 @@
     "PRODUCTO": "CLORURO DE SODIO SOLUCION 250 ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "PISA",
-    "UNITARIO": 35,
+    "UNITARIO": 38.5,
     "IVA": 0,
-    "PRECIO": 35,
+    "PRECIO": 38.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -43272,9 +43272,9 @@
     "PRODUCTO": "KETOCONAZOL 200 MG TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "LIZOVAG",
-    "UNITARIO": 33,
+    "UNITARIO": 32,
     "IVA": 0,
-    "PRECIO": 33,
+    "PRECIO": 32,
     "ANTIBIOTICO": "No"
   },
   {
@@ -43320,9 +43320,9 @@
     "PRODUCTO": "TAMSULOSINA 0.4MG C/20 CAPS L/P",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "FEDPROS",
-    "UNITARIO": 110,
+    "UNITARIO": 115.5,
     "IVA": 0,
-    "PRECIO": 110,
+    "PRECIO": 115.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -43776,9 +43776,9 @@
     "PRODUCTO": "IBUPROFENO 400 MG, HIOSINA 20 MG C/10 TAB",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "REALDRAX MXD",
-    "UNITARIO": 93,
+    "UNITARIO": 88,
     "IVA": 0,
-    "PRECIO": 93,
+    "PRECIO": 88,
     "ANTIBIOTICO": "No"
   },
   {
@@ -43968,9 +43968,9 @@
     "PRODUCTO": "GENTAMICINA 160 MG C/5 AMP 2 ML SOL INY",
     "FRACCION": "Antibioticos",
     "MARCA": "GI",
-    "UNITARIO": 85,
+    "UNITARIO": 82,
     "IVA": 0,
-    "PRECIO": 85,
+    "PRECIO": 82,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -44496,9 +44496,9 @@
     "PRODUCTO": "AMOXICILINA, ACIDO CLAVULANICO 500/125 TABS. C/15",
     "FRACCION": "Antibioticos",
     "MARCA": "GRAMAXIN C/12",
-    "UNITARIO": 112,
+    "UNITARIO": 121,
     "IVA": 0,
-    "PRECIO": 112,
+    "PRECIO": 121,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -44796,9 +44796,9 @@
     "PRODUCTO": "VITAMINAS A/C/D SOL. 15ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ANIMALIN",
-    "UNITARIO": 52.78,
-    "IVA": 4.22,
-    "PRECIO": 57,
+    "UNITARIO": 50.46,
+    "IVA": 4.04,
+    "PRECIO": 54.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -45595,9 +45595,9 @@
     "PRODUCTO": "CEFTRIAXONA GI AMP. 1 GR. IM",
     "FRACCION": "Antibioticos",
     "MARCA": "GI BRULUAGSA",
-    "UNITARIO": 77,
+    "UNITARIO": 75,
     "IVA": 0,
-    "PRECIO": 77,
+    "PRECIO": 75,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -45703,9 +45703,9 @@
     "PRODUCTO": "CHUPON MORDEDERA CON MIEL",
     "FRACCION": "Mama y bebe",
     "MARCA": "JALOMA",
-    "UNITARIO": 10.19,
-    "IVA": 0.81,
-    "PRECIO": 11,
+    "UNITARIO": 9.26,
+    "IVA": 0.74,
+    "PRECIO": 10,
     "ANTIBIOTICO": "No"
   },
   {
@@ -45978,9 +45978,9 @@
     "PRODUCTO": "YODOPOVIDONA ANTISEPTICA c/120ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "SOLVIN",
-    "UNITARIO": 45.37,
-    "IVA": 3.63,
-    "PRECIO": 49,
+    "UNITARIO": 50.93,
+    "IVA": 4.07,
+    "PRECIO": 55,
     "ANTIBIOTICO": "No"
   },
   {
@@ -46290,9 +46290,9 @@
     "PRODUCTO": "YODOPOVIDONA 8 G. ESPUMA FCO C/120 ML.",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "DEMODINE",
-    "UNITARIO": 69.44,
-    "IVA": 5.56,
-    "PRECIO": 75,
+    "UNITARIO": 67.13,
+    "IVA": 5.37,
+    "PRECIO": 72.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -46482,9 +46482,9 @@
     "PRODUCTO": "BIBERON 4 ONZAS",
     "FRACCION": "Mama y bebe",
     "MARCA": "JALOMA",
-    "UNITARIO": 25,
-    "IVA": 2,
-    "PRECIO": 27,
+    "UNITARIO": 24.07,
+    "IVA": 1.93,
+    "PRECIO": 26,
     "ANTIBIOTICO": "No"
   },
   {
@@ -46506,9 +46506,9 @@
     "PRODUCTO": "VENDA ELASTICA 10CM",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "PROTEC",
-    "UNITARIO": 17.13,
-    "IVA": 1.37,
-    "PRECIO": 18.5,
+    "UNITARIO": 15.75,
+    "IVA": 1.25,
+    "PRECIO": 17,
     "ANTIBIOTICO": "No"
   },
   {
@@ -46578,9 +46578,9 @@
     "PRODUCTO": "BIBERON CRISTALINO NI A C/MAMILA 8OZ",
     "FRACCION": "Mama y bebe",
     "MARCA": "JALOMA",
-    "UNITARIO": 25.93,
-    "IVA": 2.07,
-    "PRECIO": 28,
+    "UNITARIO": 22.22,
+    "IVA": 1.78,
+    "PRECIO": 24,
     "ANTIBIOTICO": "No"
   },
   {
@@ -46698,9 +46698,9 @@
     "PRODUCTO": "VENDA ELASTICA 15CM",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "PROTEC",
-    "UNITARIO": 22.69,
-    "IVA": 1.81,
-    "PRECIO": 24.5,
+    "UNITARIO": 20.37,
+    "IVA": 1.63,
+    "PRECIO": 22,
     "ANTIBIOTICO": "No"
   },
   {
@@ -46926,9 +46926,9 @@
     "PRODUCTO": "LEVOFLOXACINO 500 MG C/7 TABS",
     "FRACCION": "Antibioticos",
     "MARCA": "PROXSAFLO",
-    "UNITARIO": 155.5,
+    "UNITARIO": 159.5,
     "IVA": 0,
-    "PRECIO": 155.5,
+    "PRECIO": 159.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -47010,9 +47010,9 @@
     "PRODUCTO": "IBUPROFENO 400MG C/10 CAP GEL (ALGIDOL)",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "ALGIDOL",
-    "UNITARIO": 32.5,
+    "UNITARIO": 30,
     "IVA": 0,
-    "PRECIO": 32.5,
+    "PRECIO": 30,
     "ANTIBIOTICO": "No"
   },
   {
@@ -47213,9 +47213,9 @@
     "PRODUCTO": "CLOTRIMAZOL 2% CRA. VAGINAL TUBO 20gr 3 APLIC.",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": 0,
-    "UNITARIO": 66.5,
+    "UNITARIO": 68.5,
     "IVA": 0,
-    "PRECIO": 66.5,
+    "PRECIO": 68.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -47225,9 +47225,9 @@
     "PRODUCTO": "FLUCONAZOL 150 MG C/1 CAPSULA",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMEZTRAM",
-    "UNITARIO": 40.5,
+    "UNITARIO": 39.5,
     "IVA": 0,
-    "PRECIO": 40.5,
+    "PRECIO": 39.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -48617,9 +48617,9 @@
     "PRODUCTO": "BIBERON 8 ONZAS",
     "FRACCION": "Mama y bebe",
     "MARCA": "JALOMA NI A",
-    "UNITARIO": 18.52,
-    "IVA": 1.48,
-    "PRECIO": 20,
+    "UNITARIO": 17.59,
+    "IVA": 1.41,
+    "PRECIO": 19,
     "ANTIBIOTICO": "No"
   },
   {
@@ -49505,9 +49505,9 @@
     "PRODUCTO": "HIDROXIDO DE MAGNECIO SUSP 60 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "NORMEX",
-    "UNITARIO": 22,
+    "UNITARIO": 24,
     "IVA": 0,
-    "PRECIO": 22,
+    "PRECIO": 24,
     "ANTIBIOTICO": "No"
   },
   {
@@ -49649,9 +49649,9 @@
     "PRODUCTO": "HIDROXIZINA 10 MG C/30 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "HIDROXIN",
-    "UNITARIO": 75.5,
+    "UNITARIO": 76.5,
     "IVA": 0,
-    "PRECIO": 75.5,
+    "PRECIO": 76.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -49985,9 +49985,9 @@
     "PRODUCTO": "LEVADURA DE CERVEZA TAB C/100 500 MG",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "HD MORELIANA",
-    "UNITARIO": 69.44,
-    "IVA": 5.56,
-    "PRECIO": 75,
+    "UNITARIO": 66.67,
+    "IVA": 5.33,
+    "PRECIO": 72,
     "ANTIBIOTICO": "No"
   },
   {
@@ -49997,9 +49997,9 @@
     "PRODUCTO": "PROTECCION TOTAL 360 SOL C/150 ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMA",
-    "UNITARIO": 171.3,
-    "IVA": 13.7,
-    "PRECIO": 185,
+    "UNITARIO": 162.96,
+    "IVA": 13.04,
+    "PRECIO": 176,
     "ANTIBIOTICO": "No"
   },
   {
@@ -50009,9 +50009,9 @@
     "PRODUCTO": "PROTECCION TOTAL 360 SOL C/100 ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMA",
-    "UNITARIO": 148.15,
-    "IVA": 11.85,
-    "PRECIO": 160,
+    "UNITARIO": 141.67,
+    "IVA": 11.33,
+    "PRECIO": 153,
     "ANTIBIOTICO": "No"
   },
   {
@@ -50177,9 +50177,9 @@
     "PRODUCTO": "JALOMA REPELENTE DE INSECTOS C/60 ML",
     "FRACCION": "Cuidado de la piel",
     "MARCA": "JALOMA",
-    "UNITARIO": 50,
-    "IVA": 4,
-    "PRECIO": 54,
+    "UNITARIO": 33.8,
+    "IVA": 2.7,
+    "PRECIO": 36.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -50909,9 +50909,9 @@
     "PRODUCTO": "CINITAPRIDA 1MG C/25 COMPR",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 65,
+    "UNITARIO": 64,
     "IVA": 0,
-    "PRECIO": 65,
+    "PRECIO": 64,
     "ANTIBIOTICO": "No"
   },
   {
@@ -51677,9 +51677,9 @@
     "PRODUCTO": "LEVOCETIRIZINA 5MG C/10 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 113.5,
+    "UNITARIO": 99,
     "IVA": 0,
-    "PRECIO": 113.5,
+    "PRECIO": 99,
     "ANTIBIOTICO": "No"
   },
   {
@@ -51785,9 +51785,9 @@
     "PRODUCTO": "TERBINAFINA 250 MG C/28 TABS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ERBITRAX C 28",
-    "UNITARIO": 242,
+    "UNITARIO": 268.5,
     "IVA": 0,
-    "PRECIO": 242,
+    "PRECIO": 268.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -52733,9 +52733,9 @@
     "PRODUCTO": "FLUNARIZINA 5 MG C/40 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "BREFLUMAR",
-    "UNITARIO": 45,
+    "UNITARIO": 48.5,
     "IVA": 0,
-    "PRECIO": 45,
+    "PRECIO": 48.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -52817,9 +52817,9 @@
     "PRODUCTO": "HIDROCLOROTIAZIDA 25MG C/20 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AVIVIA",
-    "UNITARIO": 34,
+    "UNITARIO": 32.5,
     "IVA": 0,
-    "PRECIO": 34,
+    "PRECIO": 32.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -52889,9 +52889,9 @@
     "PRODUCTO": "BENCIDAMINA 45 MG SPRAY C/30 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "BENIFLAT",
-    "UNITARIO": 59.5,
+    "UNITARIO": 61.5,
     "IVA": 0,
-    "PRECIO": 59.5,
+    "PRECIO": 61.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -52985,9 +52985,9 @@
     "PRODUCTO": "ESPIRONOLACTONA 25 MG C/20 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AVIVIA",
-    "UNITARIO": 64,
+    "UNITARIO": 69,
     "IVA": 0,
-    "PRECIO": 64,
+    "PRECIO": 69,
     "ANTIBIOTICO": "No"
   },
   {
@@ -53477,9 +53477,9 @@
     "PRODUCTO": "BENZONATATO 100MG PERLAS c/20",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "PROGELBEN",
-    "UNITARIO": 51,
+    "UNITARIO": 53.5,
     "IVA": 0,
-    "PRECIO": 51,
+    "PRECIO": 53.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -53585,9 +53585,9 @@
     "PRODUCTO": "METAMIZOL SODICO JARABE c/100ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "MAGNIL",
-    "UNITARIO": 57.5,
+    "UNITARIO": 55,
     "IVA": 0,
-    "PRECIO": 57.5,
+    "PRECIO": 55,
     "ANTIBIOTICO": "No"
   },
   {
@@ -53729,9 +53729,9 @@
     "PRODUCTO": "KETOROLACO 30 MG C/6 TAB SUBLINGUALES",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "LOROTEC F",
-    "UNITARIO": 45.5,
+    "UNITARIO": 43.5,
     "IVA": 0,
-    "PRECIO": 45.5,
+    "PRECIO": 43.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -53813,9 +53813,9 @@
     "PRODUCTO": "DR CLEAN PEINE ANTI PIOJOS",
     "FRACCION": "Ciudado del cabello",
     "MARCA": "DR CLEAN",
-    "UNITARIO": 89.35,
-    "IVA": 7.15,
-    "PRECIO": 96.5,
+    "UNITARIO": 80.56,
+    "IVA": 6.44,
+    "PRECIO": 87,
     "ANTIBIOTICO": "No"
   },
   {
@@ -53957,9 +53957,9 @@
     "PRODUCTO": "GUAIFE, FENILEFRINA, CLORFE, PARACETAMOL C/30 ML GOTAS PED",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "DEQUIN PED",
-    "UNITARIO": 51.5,
+    "UNITARIO": 49,
     "IVA": 0,
-    "PRECIO": 51.5,
+    "PRECIO": 49,
     "ANTIBIOTICO": "No"
   },
   {
@@ -55564,9 +55564,9 @@
     "PRODUCTO": "VITACILINA 28 GMS",
     "FRACCION": "Cuidado de la piel",
     "MARCA": "VITACILINA",
-    "UNITARIO": 46,
+    "UNITARIO": 51.5,
     "IVA": 0,
-    "PRECIO": 46,
+    "PRECIO": 51.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -55948,9 +55948,9 @@
     "PRODUCTO": "IBUPROFENO 400MG TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "EUFENIL",
-    "UNITARIO": 33,
+    "UNITARIO": 32.5,
     "IVA": 0,
-    "PRECIO": 33,
+    "PRECIO": 32.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -56187,9 +56187,9 @@
     "PRODUCTO": "LEVODROPROPIZINA 600 MG SOL. 120 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "MAVI",
-    "UNITARIO": 72,
+    "UNITARIO": 70,
     "IVA": 0,
-    "PRECIO": 72,
+    "PRECIO": 70,
     "ANTIBIOTICO": "No"
   },
   {
@@ -56451,9 +56451,9 @@
     "PRODUCTO": "SALBUTAMOL 5MG/ML C/10 ML CON GOTERO INSERTO",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "SOFAMIX",
-    "UNITARIO": 90,
+    "UNITARIO": 84.5,
     "IVA": 0,
-    "PRECIO": 90,
+    "PRECIO": 84.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -57085,9 +57085,9 @@
     "PRODUCTO": "LOSARTAN 50 MG c/30 COMPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 70,
+    "UNITARIO": 38,
     "IVA": 0,
-    "PRECIO": 70,
+    "PRECIO": 38,
     "ANTIBIOTICO": "No"
   },
   {
@@ -59208,9 +59208,9 @@
     "PRODUCTO": "MED SUERO ELECTROLIT UVA 625ml",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "PISA",
-    "UNITARIO": 28,
+    "UNITARIO": 26,
     "IVA": 0,
-    "PRECIO": 28,
+    "PRECIO": 26,
     "ANTIBIOTICO": "No"
   },
   {
@@ -60000,9 +60000,9 @@
     "PRODUCTO": "DEXAMETASONA/NEOMICINA 100/500 MG SOL OFT C/4 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "SONS",
-    "UNITARIO": 45,
+    "UNITARIO": 42.5,
     "IVA": 0,
-    "PRECIO": 45,
+    "PRECIO": 42.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -60696,9 +60696,9 @@
     "PRODUCTO": "BETAGLUCANO/ VITAMINA C/ VITAMINA D3/ ZINC TAB C/30",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "CVYM",
-    "UNITARIO": 137.04,
-    "IVA": 10.96,
-    "PRECIO": 148,
+    "UNITARIO": 129.63,
+    "IVA": 10.37,
+    "PRECIO": 140,
     "ANTIBIOTICO": "No"
   },
   {
@@ -61104,9 +61104,9 @@
     "PRODUCTO": "PARACETAMOL, FENILEFRINA, CLORFENAMINA, 325/5.0/2.0 MG C/20 TAB",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "EXALIV TAB",
-    "UNITARIO": 36,
+    "UNITARIO": 37,
     "IVA": 0,
-    "PRECIO": 36,
+    "PRECIO": 37,
     "ANTIBIOTICO": "No"
   },
   {
@@ -61152,9 +61152,9 @@
     "PRODUCTO": "DEXAMETASONA/NEOMICINA 100/500 MG SOL OFT C/4 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 32.5,
+    "UNITARIO": 32,
     "IVA": 0,
-    "PRECIO": 32.5,
+    "PRECIO": 32,
     "ANTIBIOTICO": "No"
   },
   {
@@ -61200,9 +61200,9 @@
     "PRODUCTO": "LEVOFLOXACINO 750MG C/7 TABS",
     "FRACCION": "Antibioticos",
     "MARCA": "SIBOFIX 750",
-    "UNITARIO": 228,
+    "UNITARIO": 102.5,
     "IVA": 0,
-    "PRECIO": 228,
+    "PRECIO": 102.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -61920,9 +61920,9 @@
     "PRODUCTO": "METAMIZOL SODICO 1gr INYCTABLE c/3 AMP 2ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "SONS",
-    "UNITARIO": 85.5,
+    "UNITARIO": 83,
     "IVA": 0,
-    "PRECIO": 85.5,
+    "PRECIO": 83,
     "ANTIBIOTICO": "No"
   },
   {
@@ -62688,9 +62688,9 @@
     "PRODUCTO": "MAGALDRATO 8G./DIMETICONA 1G. FCO C/250ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "GRALOXEN GEL",
-    "UNITARIO": 91,
+    "UNITARIO": 94.5,
     "IVA": 0,
-    "PRECIO": 91,
+    "PRECIO": 94.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -62724,9 +62724,9 @@
     "PRODUCTO": "ETORICOXIB 90MG C/14 COMPRIMIDOS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 125,
+    "UNITARIO": 115,
     "IVA": 0,
-    "PRECIO": 125,
+    "PRECIO": 115,
     "ANTIBIOTICO": "No"
   },
   {
@@ -64367,9 +64367,9 @@
     "PRODUCTO": "HIDROXIZINA 10 MG C/30 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "XYLAM",
-    "UNITARIO": 74,
+    "UNITARIO": 71.5,
     "IVA": 0,
-    "PRECIO": 74,
+    "PRECIO": 71.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -64799,9 +64799,9 @@
     "PRODUCTO": "BUTILHIOSCINA 10MG GRAGEAS c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 34.5,
+    "UNITARIO": 33.5,
     "IVA": 0,
-    "PRECIO": 34.5,
+    "PRECIO": 33.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -66047,9 +66047,9 @@
     "PRODUCTO": "LEVONORGESTREL 0.75MG C/2 TABS",
     "FRACCION": "Pareja",
     "MARCA": "AVIVIA",
-    "UNITARIO": 65,
+    "UNITARIO": 63,
     "IVA": 0,
-    "PRECIO": 65,
+    "PRECIO": 63,
     "ANTIBIOTICO": "No"
   },
   {
@@ -66227,9 +66227,9 @@
     "PRODUCTO": "TELMISARTAN, HIDROCLOROTIAZIDA 80/12.5 MG TABLETAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ADN PHARM",
-    "UNITARIO": 140.5,
+    "UNITARIO": 143.5,
     "IVA": 0,
-    "PRECIO": 140.5,
+    "PRECIO": 143.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -66539,9 +66539,9 @@
     "PRODUCTO": "VENDA ELASTICA 15CM",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "VENDALASTIC",
-    "UNITARIO": 21.3,
-    "IVA": 1.7,
-    "PRECIO": 23,
+    "UNITARIO": 18.52,
+    "IVA": 1.48,
+    "PRECIO": 20,
     "ANTIBIOTICO": "No"
   },
   {
@@ -66959,9 +66959,9 @@
     "PRODUCTO": "VENDA ELASTICA 10CM",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "VENDALASTIC",
-    "UNITARIO": 16.67,
-    "IVA": 1.33,
-    "PRECIO": 18,
+    "UNITARIO": 13.89,
+    "IVA": 1.11,
+    "PRECIO": 15,
     "ANTIBIOTICO": "No"
   },
   {
@@ -67031,9 +67031,9 @@
     "PRODUCTO": "KETOROLACO 10MG TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ULTRA",
-    "UNITARIO": 26.5,
+    "UNITARIO": 28,
     "IVA": 0,
-    "PRECIO": 26.5,
+    "PRECIO": 28,
     "ANTIBIOTICO": "No"
   },
   {
@@ -67079,9 +67079,9 @@
     "PRODUCTO": "LEVONORGESTREL 1.5MG C/1 TAB",
     "FRACCION": "Pareja",
     "MARCA": "AVIVIA",
-    "UNITARIO": 61.5,
+    "UNITARIO": 66.5,
     "IVA": 0,
-    "PRECIO": 61.5,
+    "PRECIO": 66.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -67091,9 +67091,9 @@
     "PRODUCTO": "DIFENHIDRAMINA 50 MG C/8 CAPSULAS",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "DEGORTS",
-    "UNITARIO": 25.5,
+    "UNITARIO": 24.5,
     "IVA": 0,
-    "PRECIO": 25.5,
+    "PRECIO": 24.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -67187,9 +67187,9 @@
     "PRODUCTO": "BUTILHIOSCINA 20MG INYECTABLE c/3 AMP 1ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 59.5,
+    "UNITARIO": 46.5,
     "IVA": 0,
-    "PRECIO": 59.5,
+    "PRECIO": 46.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -67859,9 +67859,9 @@
     "PRODUCTO": "CLOTRIMAZOL 1gr CRA. DERMICA TUBO c/30gr",
     "FRACCION": "Sutancias A-Z fraccion V",
     "MARCA": "BIOMEP",
-    "UNITARIO": 29.5,
+    "UNITARIO": 31,
     "IVA": 0,
-    "PRECIO": 29.5,
+    "PRECIO": 31,
     "ANTIBIOTICO": "No"
   },
   {
@@ -68819,9 +68819,9 @@
     "PRODUCTO": "HERKLIN NF SPRAY REPELENTE 120 ML",
     "FRACCION": "Ciudado del cabello",
     "MARCA": "HERKLIN",
-    "UNITARIO": 166.67,
-    "IVA": 13.33,
-    "PRECIO": 180,
+    "UNITARIO": 129.63,
+    "IVA": 10.37,
+    "PRECIO": 140,
     "ANTIBIOTICO": "No"
   },
   {
@@ -70054,9 +70054,9 @@
     "PRODUCTO": "VITAMINA C/D/A SOL ORAL C/5 3ML",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "GI",
-    "UNITARIO": 87.04,
-    "IVA": 6.96,
-    "PRECIO": 94,
+    "UNITARIO": 84.72,
+    "IVA": 6.78,
+    "PRECIO": 91.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -71050,9 +71050,9 @@
     "PRODUCTO": "GINKGOBILOBA 40MG C/30 CAPS",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "LINGNUM",
-    "UNITARIO": 111,
+    "UNITARIO": 107,
     "IVA": 0,
-    "PRECIO": 111,
+    "PRECIO": 107,
     "ANTIBIOTICO": "No"
   },
   {
@@ -71134,9 +71134,9 @@
     "PRODUCTO": "ESTROGENOS CONJUGADOS C/42 GRAGEAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ULTRA",
-    "UNITARIO": 632,
+    "UNITARIO": 571,
     "IVA": 0,
-    "PRECIO": 632,
+    "PRECIO": 571,
     "ANTIBIOTICO": "No"
   },
   {
@@ -76881,9 +76881,9 @@
     "PRODUCTO": "AZITROMICINA 500MG CAPS. C/4",
     "FRACCION": "Antibioticos",
     "MARCA": "CAZTRONIN C/4",
-    "UNITARIO": 143.5,
+    "UNITARIO": 137,
     "IVA": 0,
-    "PRECIO": 143.5,
+    "PRECIO": 137,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -78345,9 +78345,9 @@
     "PRODUCTO": "CLARITROMICINA 500 MG C/10 TABS.",
     "FRACCION": "Antibioticos",
     "MARCA": "BIOMEP",
-    "UNITARIO": 140,
+    "UNITARIO": 148,
     "IVA": 0,
-    "PRECIO": 140,
+    "PRECIO": 148,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -78765,9 +78765,9 @@
     "PRODUCTO": "DESLORATADINA JARABE C/120 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "VALGAB",
-    "UNITARIO": 80.5,
+    "UNITARIO": 78,
     "IVA": 0,
-    "PRECIO": 80.5,
+    "PRECIO": 78,
     "ANTIBIOTICO": "No"
   },
   {
@@ -78993,9 +78993,9 @@
     "PRODUCTO": "BRONCO FRESH MIEL CEREZA CARAM 32.94 GR",
     "FRACCION": "Alimentos",
     "MARCA": "BRONCO FRESH",
-    "UNITARIO": 9.26,
-    "IVA": 0.74,
-    "PRECIO": 10,
+    "UNITARIO": 9.72,
+    "IVA": 0.78,
+    "PRECIO": 10.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -79029,9 +79029,9 @@
     "PRODUCTO": "BRONCO FRESH MIEL EUCALIPTO CARAM 32.94G",
     "FRACCION": "Alimentos",
     "MARCA": "BRONCOLIN",
-    "UNITARIO": 12.96,
-    "IVA": 1.04,
-    "PRECIO": 14,
+    "UNITARIO": 9.72,
+    "IVA": 0.78,
+    "PRECIO": 10.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -79269,9 +79269,9 @@
     "PRODUCTO": "DICLOXACILINA 500 MG C/12 CAPSULAS",
     "FRACCION": "Antibioticos",
     "MARCA": "DICLEOPHEN",
-    "UNITARIO": 49.5,
+    "UNITARIO": 51,
     "IVA": 0,
-    "PRECIO": 49.5,
+    "PRECIO": 51,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -79821,9 +79821,9 @@
     "PRODUCTO": "TELMISARTAN, HIDROCLOROTIAZIDA 80/25 MG TABLETAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 167,
+    "UNITARIO": 143.5,
     "IVA": 0,
-    "PRECIO": 167,
+    "PRECIO": 143.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -80781,9 +80781,9 @@
     "PRODUCTO": "RINOMAR ADULTOS Y NI OS C/100 ML",
     "FRACCION": "OTC",
     "MARCA": "DACLAF",
-    "UNITARIO": 149.07,
-    "IVA": 11.93,
-    "PRECIO": 161,
+    "UNITARIO": 119.44,
+    "IVA": 9.56,
+    "PRECIO": 129,
     "ANTIBIOTICO": "No"
   },
   {
@@ -80793,9 +80793,9 @@
     "PRODUCTO": "REXURDIR CAP C/16 400 MG",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "REXURDIR",
-    "UNITARIO": 57.5,
+    "UNITARIO": 59.5,
     "IVA": 0,
-    "PRECIO": 57.5,
+    "PRECIO": 59.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -81453,9 +81453,9 @@
     "PRODUCTO": "CLARITROMICINA 250MG TABS. c/10",
     "FRACCION": "Antibioticos",
     "MARCA": "BIOMEP",
-    "UNITARIO": 102,
+    "UNITARIO": 104.5,
     "IVA": 0,
-    "PRECIO": 102,
+    "PRECIO": 104.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -82065,9 +82065,9 @@
     "PRODUCTO": "CLINDAMICINA/KETOCONAZOL 400MG/100MG C/7 OVULOS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "FEMITAB",
-    "UNITARIO": 116,
+    "UNITARIO": 107,
     "IVA": 0,
-    "PRECIO": 116,
+    "PRECIO": 107,
     "ANTIBIOTICO": "No"
   },
   {
@@ -82305,9 +82305,9 @@
     "PRODUCTO": "LOSARTAN 100 MG c/15 COMPS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "PUNAB",
-    "UNITARIO": 69,
+    "UNITARIO": 55,
     "IVA": 0,
-    "PRECIO": 69,
+    "PRECIO": 55,
     "ANTIBIOTICO": "No"
   },
   {
@@ -82437,9 +82437,9 @@
     "PRODUCTO": "ELECTROLIFE ZERO FRESA-KIWI C/625 ML",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "PISA",
-    "UNITARIO": 25,
-    "IVA": 2,
-    "PRECIO": 27,
+    "UNITARIO": 20.37,
+    "IVA": 1.63,
+    "PRECIO": 22,
     "ANTIBIOTICO": "No"
   },
   {
@@ -82461,9 +82461,9 @@
     "PRODUCTO": "ELECTROLIFE ZERO UVA C/625 ML",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "PISA",
-    "UNITARIO": 25,
-    "IVA": 2,
-    "PRECIO": 27,
+    "UNITARIO": 20.37,
+    "IVA": 1.63,
+    "PRECIO": 22,
     "ANTIBIOTICO": "No"
   },
   {
@@ -83121,9 +83121,9 @@
     "PRODUCTO": "DROPROPIZINA0.300G JBE C/120 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "LETOAZIN",
-    "UNITARIO": 57,
+    "UNITARIO": 55,
     "IVA": 0,
-    "PRECIO": 57,
+    "PRECIO": 55,
     "ANTIBIOTICO": "No"
   },
   {
@@ -83601,9 +83601,9 @@
     "PRODUCTO": "TELMISARTAN, HIDROCLOROTIAZIDA 80/12.5 MG TABLETAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 140.5,
+    "UNITARIO": 130.5,
     "IVA": 0,
-    "PRECIO": 140.5,
+    "PRECIO": 130.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -84045,9 +84045,9 @@
     "PRODUCTO": "INHA-RUB UNGUENTO TARRO C/20 G",
     "FRACCION": "OTC",
     "MARCA": "INHA-RUB",
-    "UNITARIO": 27.31,
-    "IVA": 2.19,
-    "PRECIO": 29.5,
+    "UNITARIO": 25.93,
+    "IVA": 2.07,
+    "PRECIO": 28,
     "ANTIBIOTICO": "No"
   },
   {
@@ -84261,9 +84261,9 @@
     "PRODUCTO": "IBUPROFENO 600MG CAPSULAS C/10",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "PROGELA",
-    "UNITARIO": 39.5,
+    "UNITARIO": 39,
     "IVA": 0,
-    "PRECIO": 39.5,
+    "PRECIO": 39,
     "ANTIBIOTICO": "No"
   },
   {
@@ -84297,9 +84297,9 @@
     "PRODUCTO": "ELECTROLIT PED SABOR FRESA SOL C/500 ML",
     "FRACCION": "Mama y bebe",
     "MARCA": "PISA",
-    "UNITARIO": 22,
+    "UNITARIO": 20,
     "IVA": 0,
-    "PRECIO": 22,
+    "PRECIO": 20,
     "ANTIBIOTICO": "No"
   },
   {
@@ -84321,9 +84321,9 @@
     "PRODUCTO": "ELECTROLIT PED SABOR MZNA SOL C/500 ML",
     "FRACCION": "Mama y bebe",
     "MARCA": "PISA",
-    "UNITARIO": 22,
+    "UNITARIO": 20,
     "IVA": 0,
-    "PRECIO": 22,
+    "PRECIO": 20,
     "ANTIBIOTICO": "No"
   },
   {
@@ -84345,9 +84345,9 @@
     "PRODUCTO": "ELECTROLIT PED SABOR UVA SOL C/500 ML",
     "FRACCION": "Mama y bebe",
     "MARCA": "PISA",
-    "UNITARIO": 22,
+    "UNITARIO": 20,
     "IVA": 0,
-    "PRECIO": 22,
+    "PRECIO": 20,
     "ANTIBIOTICO": "No"
   },
   {
@@ -84501,9 +84501,9 @@
     "PRODUCTO": "RASTRILLO PERMA SHARP II",
     "FRACCION": "Higiene Corporal",
     "MARCA": "P&G",
-    "UNITARIO": 12.96,
-    "IVA": 1.04,
-    "PRECIO": 14,
+    "UNITARIO": 11.11,
+    "IVA": 0.89,
+    "PRECIO": 12,
     "ANTIBIOTICO": "No"
   },
   {
@@ -85317,9 +85317,9 @@
     "PRODUCTO": "CEFTRIAXONA GI AMP. 1 GR. IM",
     "FRACCION": "Antibioticos",
     "MARCA": "AMSA",
-    "UNITARIO": 86,
+    "UNITARIO": 78,
     "IVA": 0,
-    "PRECIO": 86,
+    "PRECIO": 78,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -86733,9 +86733,9 @@
     "PRODUCTO": "DEXTROMETORFANO .150G, GUAIFENESINA 1.200G, PARACETAMOL 3.0G PED C/118ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "TUSILEN PED",
-    "UNITARIO": 64.5,
+    "UNITARIO": 62.5,
     "IVA": 0,
-    "PRECIO": 64.5,
+    "PRECIO": 62.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -86769,9 +86769,9 @@
     "PRODUCTO": "HARINA DE SOYA/BA O COLOIDE 90GR",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "SUADERM",
-    "UNITARIO": 57.5,
+    "UNITARIO": 57,
     "IVA": 0,
-    "PRECIO": 57.5,
+    "PRECIO": 57,
     "ANTIBIOTICO": "No"
   },
   {
@@ -86877,9 +86877,9 @@
     "PRODUCTO": "IBUPROFENO/ CAFEINA 400/ 100 MG C/10 CAP",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "BRYSBAL",
-    "UNITARIO": 53.5,
+    "UNITARIO": 48,
     "IVA": 0,
-    "PRECIO": 53.5,
+    "PRECIO": 48,
     "ANTIBIOTICO": "No"
   },
   {
@@ -87021,9 +87021,9 @@
     "PRODUCTO": "CEFTRIAXONA 500 MG Y DIL AMPOLLETA 2 ML I.M.",
     "FRACCION": "Antibioticos",
     "MARCA": "AMSA",
-    "UNITARIO": 56.5,
+    "UNITARIO": 50,
     "IVA": 0,
-    "PRECIO": 56.5,
+    "PRECIO": 50,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -88293,9 +88293,9 @@
     "PRODUCTO": "IRBESARTAN TAB C/14 300 MG",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "AMSA",
-    "UNITARIO": 143.5,
+    "UNITARIO": 129,
     "IVA": 0,
-    "PRECIO": 143.5,
+    "PRECIO": 129,
     "ANTIBIOTICO": "No"
   },
   {
@@ -89120,9 +89120,9 @@
     "PRODUCTO": "JALOMA ALCOHOL DESNAT 70 C/240 ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "JALOMA",
-    "UNITARIO": 16.67,
-    "IVA": 1.33,
-    "PRECIO": 18,
+    "UNITARIO": 15.74,
+    "IVA": 1.26,
+    "PRECIO": 17,
     "ANTIBIOTICO": "No"
   },
   {
@@ -89288,9 +89288,9 @@
     "PRODUCTO": "HARINA DE SOYA/BA O COLOIDE 90GR",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "SUANCA",
-    "UNITARIO": 55,
+    "UNITARIO": 57,
     "IVA": 0,
-    "PRECIO": 55,
+    "PRECIO": 57,
     "ANTIBIOTICO": "No"
   },
   {
@@ -89706,9 +89706,9 @@
     "PRODUCTO": "LEVOCETIRIZINA 5MG C/10 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ESGARO",
-    "UNITARIO": 104,
+    "UNITARIO": 107.5,
     "IVA": 0,
-    "PRECIO": 104,
+    "PRECIO": 107.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -90006,9 +90006,9 @@
     "PRODUCTO": "JALOMA ALGODON PLISADO C/200 GR",
     "FRACCION": "Sin Fraccion",
     "MARCA": "JALOMA",
-    "UNITARIO": 48.15,
-    "IVA": 3.85,
-    "PRECIO": 52,
+    "UNITARIO": 46.3,
+    "IVA": 3.7,
+    "PRECIO": 50,
     "ANTIBIOTICO": "No"
   },
   {
@@ -90102,9 +90102,9 @@
     "PRODUCTO": "MICROPORE 1.25 X 9.1 COLOR PIEL",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "QUIRMEX",
-    "UNITARIO": 25,
-    "IVA": 2,
-    "PRECIO": 27,
+    "UNITARIO": 23.15,
+    "IVA": 1.85,
+    "PRECIO": 25,
     "ANTIBIOTICO": "No"
   },
   {
@@ -91733,9 +91733,9 @@
     "PRODUCTO": "TIAMINA/PIRIDOXINA/CIANOCOBALAMINA C/30 TABLETAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "TRIBEDOCE",
-    "UNITARIO": 39,
+    "UNITARIO": 43.5,
     "IVA": 0,
-    "PRECIO": 39,
+    "PRECIO": 43.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -91877,9 +91877,9 @@
     "PRODUCTO": "ISOCONAZOL 1G CREMA VAGINAL C/40 G C/7 APLICADORES",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ODLIVIR",
-    "UNITARIO": 67,
+    "UNITARIO": 56,
     "IVA": 0,
-    "PRECIO": 67,
+    "PRECIO": 56,
     "ANTIBIOTICO": "No"
   },
   {
@@ -92285,9 +92285,9 @@
     "PRODUCTO": "ELECTROLIFE ZERO FRAMBUEZA AZUL C/625 ML",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "ELECTROLIFE",
-    "UNITARIO": 25,
-    "IVA": 2,
-    "PRECIO": 27,
+    "UNITARIO": 20.37,
+    "IVA": 1.63,
+    "PRECIO": 22,
     "ANTIBIOTICO": "No"
   },
   {
@@ -92369,9 +92369,9 @@
     "PRODUCTO": "ISOCONAZOL 1G CREMA TOPICA",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ODLIVIR",
-    "UNITARIO": 35,
+    "UNITARIO": 29,
     "IVA": 0,
-    "PRECIO": 35,
+    "PRECIO": 29,
     "ANTIBIOTICO": "No"
   },
   {
@@ -92525,9 +92525,9 @@
     "PRODUCTO": "MAGALDRATO, DIMETICONA 80/10 MG/1 ML",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "XENOPIR GEL",
-    "UNITARIO": 80.5,
+    "UNITARIO": 66.5,
     "IVA": 0,
-    "PRECIO": 80.5,
+    "PRECIO": 66.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -92693,9 +92693,9 @@
     "PRODUCTO": "CERA PARA ORTODONCIA C/1",
     "FRACCION": "Higiene Bucal",
     "MARCA": "CLINIC",
-    "UNITARIO": 46.3,
-    "IVA": 3.7,
-    "PRECIO": 50,
+    "UNITARIO": 27.31,
+    "IVA": 2.19,
+    "PRECIO": 29.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -92789,9 +92789,9 @@
     "PRODUCTO": "FLUOROGLUCINOL C/30 CAPS",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "ATLANTIS",
-    "UNITARIO": 215,
+    "UNITARIO": 193.5,
     "IVA": 0,
-    "PRECIO": 215,
+    "PRECIO": 193.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -93137,9 +93137,9 @@
     "PRODUCTO": "TIAMINA/PIRIDOXINA/CIANOCOBALAMINA/DEXAMETASONA SOL. INY. C/3 AMPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "TRIBEDOCE DX",
-    "UNITARIO": 111.5,
+    "UNITARIO": 112,
     "IVA": 0,
-    "PRECIO": 111.5,
+    "PRECIO": 112,
     "ANTIBIOTICO": "No"
   },
   {
@@ -93245,9 +93245,9 @@
     "PRODUCTO": "DICLOFENACO DIETI 1.16 G GEL TUBO C/60 G",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "CRADOXOL",
-    "UNITARIO": 55.5,
+    "UNITARIO": 50,
     "IVA": 0,
-    "PRECIO": 55.5,
+    "PRECIO": 50,
     "ANTIBIOTICO": "No"
   },
   {
@@ -93617,9 +93617,9 @@
     "PRODUCTO": "DROPROPIZINA/BROMHEXINA 300-160 MG/100 ML.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DROSEQUIM",
-    "UNITARIO": 176.5,
+    "UNITARIO": 144.5,
     "IVA": 0,
-    "PRECIO": 176.5,
+    "PRECIO": 144.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -93689,9 +93689,9 @@
     "PRODUCTO": "DROPROPIZINA/BROMHEXINA INF. 150-80 MG/100 ML.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DROSEQUIM",
-    "UNITARIO": 143.5,
+    "UNITARIO": 131,
     "IVA": 0,
-    "PRECIO": 143.5,
+    "PRECIO": 131,
     "ANTIBIOTICO": "No"
   },
   {
@@ -93701,9 +93701,9 @@
     "PRODUCTO": "MASCARILLA PEDIATRICA PARA NEBULIZADOR 6ML SENSI MEDICAL",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "SENSIMEDICAL",
-    "UNITARIO": 54.63,
-    "IVA": 4.37,
-    "PRECIO": 59,
+    "UNITARIO": 55.09,
+    "IVA": 4.41,
+    "PRECIO": 59.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -93869,9 +93869,9 @@
     "PRODUCTO": "DESLORATADINA 5MG C/10 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ABRUNT",
-    "UNITARIO": 54.5,
+    "UNITARIO": 59,
     "IVA": 0,
-    "PRECIO": 54.5,
+    "PRECIO": 59,
     "ANTIBIOTICO": "No"
   },
   {
@@ -93917,9 +93917,9 @@
     "PRODUCTO": "ATORVASTATINA 20MG C/10 TABS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "DESLOCRON",
-    "UNITARIO": 67.5,
+    "UNITARIO": 72.5,
     "IVA": 0,
-    "PRECIO": 67.5,
+    "PRECIO": 72.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -94145,9 +94145,9 @@
     "PRODUCTO": "DROPROPIZINA/BROMHEXINA INF. 150-80 MG/100 ML.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "NINTILIX",
-    "UNITARIO": 149.5,
+    "UNITARIO": 132,
     "IVA": 0,
-    "PRECIO": 149.5,
+    "PRECIO": 132,
     "ANTIBIOTICO": "No"
   },
   {
@@ -94349,9 +94349,9 @@
     "PRODUCTO": "FLUTICASONA, SALMETEROL 25MCG/50MCG",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ULFHINLAS AIR",
-    "UNITARIO": 258.5,
+    "UNITARIO": 262.5,
     "IVA": 0,
-    "PRECIO": 258.5,
+    "PRECIO": 262.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -94505,9 +94505,9 @@
     "PRODUCTO": "TAMSULOSINA 0.4MG C/20 CAPS L/P",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ULTRA",
-    "UNITARIO": 127,
+    "UNITARIO": 91,
     "IVA": 0,
-    "PRECIO": 127,
+    "PRECIO": 91,
     "ANTIBIOTICO": "No"
   },
   {
@@ -94517,9 +94517,9 @@
     "PRODUCTO": "LEVOFLOXACINO 750MG C/7 TABS",
     "FRACCION": "Antibioticos",
     "MARCA": "LEFAREX",
-    "UNITARIO": 219,
+    "UNITARIO": 217,
     "IVA": 0,
-    "PRECIO": 219,
+    "PRECIO": 217,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -94697,9 +94697,9 @@
     "PRODUCTO": "LEVOFLOXACINO 500 MG C/7 TABS",
     "FRACCION": "Antibioticos",
     "MARCA": "LEFAREX",
-    "UNITARIO": 160.5,
+    "UNITARIO": 158.5,
     "IVA": 0,
-    "PRECIO": 160.5,
+    "PRECIO": 158.5,
     "ANTIBIOTICO": "Si"
   },
   {
@@ -94793,9 +94793,9 @@
     "PRODUCTO": "MASCARILLA PARA NEBULIZAR ADULTO ESTANDAR SENSIMEDICAL 6 ML",
     "FRACCION": "Botica y material de curacion",
     "MARCA": "SENSIMEDICAL",
-    "UNITARIO": 59.26,
-    "IVA": 4.74,
-    "PRECIO": 64,
+    "UNITARIO": 57.87,
+    "IVA": 4.63,
+    "PRECIO": 62.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -95153,9 +95153,9 @@
     "PRODUCTO": "PARACETAMOL 750 MG C/10 TABLETAS",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "PORTEM",
-    "UNITARIO": 21.5,
+    "UNITARIO": 20,
     "IVA": 0,
-    "PRECIO": 21.5,
+    "PRECIO": 20,
     "ANTIBIOTICO": "No"
   },
   {
@@ -95309,9 +95309,9 @@
     "PRODUCTO": "FLUOXETINA 20MG CAPS.",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "F-EXINA",
-    "UNITARIO": 40.5,
+    "UNITARIO": 42,
     "IVA": 0,
-    "PRECIO": 40.5,
+    "PRECIO": 42,
     "ANTIBIOTICO": "No"
   },
   {
@@ -95681,9 +95681,9 @@
     "PRODUCTO": "LEVOCETIRIZINA 2.5/5 ML (0.5/ML) C/150 ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "RENEMIX",
-    "UNITARIO": 158,
+    "UNITARIO": 142.5,
     "IVA": 0,
-    "PRECIO": 158,
+    "PRECIO": 142.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -95969,9 +95969,9 @@
     "PRODUCTO": "BRULUAQUIL MIGRA A 250/250/65MG C/24 TAB",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "BRULUAQUIL",
-    "UNITARIO": 64.5,
+    "UNITARIO": 66.5,
     "IVA": 0,
-    "PRECIO": 64.5,
+    "PRECIO": 66.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -96017,9 +96017,9 @@
     "PRODUCTO": "ELECTROLIFE ZERO COCO 625 ML",
     "FRACCION": "Complementos y suplementos",
     "MARCA": "ELECTROLIFE",
-    "UNITARIO": 25,
-    "IVA": 2,
-    "PRECIO": 27,
+    "UNITARIO": 20.37,
+    "IVA": 1.63,
+    "PRECIO": 22,
     "ANTIBIOTICO": "No"
   },
   {
@@ -96149,9 +96149,9 @@
     "PRODUCTO": "DEXTROMETORFANO .300G, GUAIFENESINA 2.400G, FENILEFRINA .050 G ADTO C/118ML",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "TUSILEN",
-    "UNITARIO": 65.5,
+    "UNITARIO": 67,
     "IVA": 0,
-    "PRECIO": 65.5,
+    "PRECIO": 67,
     "ANTIBIOTICO": "No"
   },
   {
@@ -96173,9 +96173,9 @@
     "PRODUCTO": "DEXAMETASONA 1 MG C/20 TAB",
     "FRACCION": "Sutancias A-Z fraccion IV",
     "MARCA": "ADRECORT",
-    "UNITARIO": 53.5,
+    "UNITARIO": 41.5,
     "IVA": 0,
-    "PRECIO": 53.5,
+    "PRECIO": 41.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -97180,9 +97180,9 @@
     "PRODUCTO": "CLORFENAMINA COMPUESTA TABS. c/10",
     "FRACCION": "Sutancias A-Z fraccion VI",
     "MARCA": "KY6",
-    "UNITARIO": 19,
+    "UNITARIO": 18.5,
     "IVA": 0,
-    "PRECIO": 19,
+    "PRECIO": 18.5,
     "ANTIBIOTICO": "No"
   },
   {
@@ -97627,6 +97627,42 @@
     "UNITARIO": 120,
     "IVA": 0,
     "PRECIO": 120,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8186,
+    "CLAVE": 99993,
+    "CODIGO": 7506372603120,
+    "PRODUCTO": "COLLARIN CERVICAL BLANDO GRANDE",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "ORTOPEDIA DE EXCELENCIA",
+    "UNITARIO": 108.33,
+    "IVA": 8.67,
+    "PRECIO": 117,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8187,
+    "CLAVE": 4301,
+    "CODIGO": 729514000671,
+    "PRODUCTO": "RODILLERA ELAST. MENISCOS T: GD/EXG.",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "LE ROY",
+    "UNITARIO": 120.37,
+    "IVA": 9.63,
+    "PRECIO": 130,
+    "ANTIBIOTICO": "No"
+  },
+  {
+    "ID": 8188,
+    "CLAVE": 4302,
+    "CODIGO": 7500435246309,
+    "PRODUCTO": "VICK DROPS JENGIBRE 36 G C/20 PASTILLAS",
+    "FRACCION": "Sin Fraccion",
+    "MARCA": "VICK",
+    "UNITARIO": 41.67,
+    "IVA": 3.33,
+    "PRECIO": 45,
     "ANTIBIOTICO": "No"
   }
 ]
